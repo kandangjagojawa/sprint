@@ -7,7 +7,6 @@
   --ink: #0f172a;
   --muted: #64748b;
   --line: #e2e8f0;
-  --font-jawa: 'Ngayogyann', 'Noto Sans Javanese', serif;
   
   /* Modern Bright Tone Palette */
   --accent-primary: #6366f1;
@@ -189,19 +188,11 @@ h1 {
   text-align: center;
 }
 
-/*h1 .jawa {
+h1 .jawa {
   font-family: "Noto Sans Javanese", serif;
   font-weight: 400;
   display: inline-block;
   margin-left: 4px;
-}*/
-
-h1 .jawa,
-.jawa,
-.jawa.big,
-.q-latin,
-.aks-cell {
-  font-family: 'Ngayogyann', 'Noto Sans Javanese', serif !important;
 }
 
 .sub {
