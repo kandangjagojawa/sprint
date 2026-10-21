@@ -113,7 +113,7 @@
         .final-list{display:flex;flex-direction:column;gap:8px}
         .final-row{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:12px}
         .final-card.player .final-row{background:#fffaf3;border:1px solid var(--line)}
-        .final-row.top1{background:linear-gradient(90deg,#fff8e1,#ffecb3);border-color:#ffca28}
+        .final-row.top1{background:linear-gradient(90deg,#fff8e1,#ffecb3);border-color:#ffca28;color:#2b2118}
         .final-row .rank{font-weight:800;min-width:32px}
         .final-row .name{flex:1;font-weight:700}
         .final-row .score{font-weight:800}
