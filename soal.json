@@ -1,92 +1,101 @@
 [
   {
     "level": 1,
-    "q": "Aksara ꦲ dibaca?",
+    "q": "ꦲ dibaca?",
     "a": "ha",
     "opts": [
       "ha",
       "na",
+      "ca",
+      "ma"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦤ dibaca?",
+    "a": "na",
+    "opts": [
+      "na",
+      "ha",
+      "sa",
       "ca"
     ]
   },
   {
     "level": 1,
-    "q": "Aksara ꦤ dibaca?",
-    "a": "na",
-    "opts": [
-      "na",
-      "ha",
-      "sa"
-    ]
-  },
-  {
-    "level": 1,
-    "q": "Aksara ꦕ dibaca?",
+    "q": "ꦕ dibaca?",
     "a": "ca",
     "opts": [
       "ca",
       "ja",
-      "nya"
+      "nya",
+      "ra"
     ]
   },
   {
     "level": 1,
-    "q": "Aksara ꦫ dibaca?",
+    "q": "ꦫ dibaca?",
     "a": "ra",
     "opts": [
       "ra",
       "ka",
-      "da"
+      "da",
+      "ga"
     ]
   },
   {
     "level": 1,
-    "q": "Aksara ꦏ dibaca?",
+    "q": "ꦏ dibaca?",
     "a": "ka",
     "opts": [
       "ka",
       "ta",
-      "la"
+      "la",
+      "na"
     ]
   },
   {
     "level": 2,
-    "q": "Wulu ꦲꦶ dibaca?",
+    "q": "ꦲꦶ dibaca?",
     "a": "hi",
     "opts": [
       "hi",
-      "ha",
-      "hu"
-    ]
-  },
-  {
-    "level": 2,
-    "q": "Suku ꦤꦸ dibaca?",
-    "a": "nu",
-    "opts": [
-      "nu",
-      "na",
+      "li",
+      "pi",
       "ni"
     ]
   },
   {
     "level": 2,
-    "q": "Taling ꦏꦺ dibaca?",
-    "a": "ke",
+    "q": "ꦤꦸ dibaca?",
+    "a": "nu",
     "opts": [
-      "ke",
-      "ka",
-      "ko"
+      "nu",
+      "ku",
+      "pu",
+      "wu"
     ]
   },
   {
     "level": 2,
-    "q": "Taling tarung ꦫꦺꦴ dibaca?",
+    "q": "ꦏꦺ dibaca?",
+    "a": "ké",
+    "opts": [
+      "ké",
+      "né",
+      "pé",
+      "wé"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦫꦺꦴ dibaca?",
     "a": "ro",
     "opts": [
+      "go",
       "ro",
-      "re",
-      "ra"
+      "no",
+      "yo"
     ]
   },
   {
