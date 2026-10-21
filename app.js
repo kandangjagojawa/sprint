@@ -7707,14 +7707,14 @@ function po() {
                 children: "HANACARAKA SPRINT"
             }), D("p", {
                 className: "sub",
-                children: "Belajar Aksara Jawa Bareng"
+                children: "Game Interaktif Multiplayer Realtime"
             }), /*le("div", {
                 className: "about-hero",
                 children: [
                     D("div", {className:"about-icon", children:"🎯"}),
                     le("div", {children:[
                         D("h3",{children:"Uji Ketangkasan"}),
-                        D("p",{children:"Game kuis interaktif multiplayer realtime."})
+                        D("p",{children:"Belajar Aksara Jawa Bareng. Game kuis interaktif multiplayer realtime."})
                     ]})
                 ] 
             }), */D("div", {
