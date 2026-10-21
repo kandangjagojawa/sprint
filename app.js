@@ -7708,6 +7708,15 @@ function po() {
             }), D("p", {
                 className: "sub",
                 children: "Belajar Aksara Jawa Bareng"
+            }), le("div", {
+                className: "about-hero",
+                children: [
+                    D("div", {className:"about-icon", children:"🎯"}),
+                    le("div", {children:[
+                        D("h3",{children:"Tentang Hanacaraka Sprint"}),
+                        D("p",{children:"Hanacaraka Sprint adalah game kuis interaktif multiplayer realtime untuk belajar dan menguji ketangkasan membaca Aksara Jawa secara seru, cepat, dan kompetitif!"})
+                    ]})
+                ]
             }), D("div", {
                 id: "v-landing",
                 className: "view active",
