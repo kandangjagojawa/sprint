@@ -1,7 +1,7 @@
 [
   {
     "level": 1,
-    "q": "ꦲꦤ dibaca?",
+    "q": "ꦲꦤ diwaca?",
     "a": "hana",
     "opts": [
       "hana",
@@ -12,7 +12,7 @@
   },
   {
     "level": 1,
-    "q": "ꦤꦠ dibaca?",
+    "q": "ꦤꦠ diwaca?",
     "a": "nata",
     "opts": [
       "naha",
@@ -23,7 +23,7 @@
   },
   {
     "level": 1,
-    "q": "ꦕꦫ dibaca?",
+    "q": "ꦕꦫ diwaca?",
     "a": "cara",
     "opts": [
       "nara",
@@ -34,7 +34,7 @@
   },
   {
     "level": 1,
-    "q": "ꦫꦒ dibaca?",
+    "q": "ꦫꦒ diwaca?",
     "a": "raga",
     "opts": [
       "gara",
@@ -45,7 +45,7 @@
   },
   {
     "level": 1,
-    "q": "ꦏꦭ dibaca?",
+    "q": "ꦏꦭ diwaca?",
     "a": "kala",
     "opts": [
       "kaha",
@@ -56,7 +56,7 @@
   },
   {
     "level": 2,
-    "q": "ꦲꦶꦏꦶ dibaca?",
+    "q": "ꦲꦶꦏꦶ diwaca?",
     "a": "hiki",
     "opts": [
       "liki",
@@ -67,7 +67,7 @@
   },
   {
     "level": 2,
-    "q": "ꦤꦸꦏꦸ dibaca?",
+    "q": "ꦤꦸꦏꦸ diwaca?",
     "a": "nuku",
     "opts": [
       "nulu",
@@ -78,7 +78,7 @@
   },
   {
     "level": 2,
-    "q": "ꦏꦺꦕꦺ dibaca?",
+    "q": "ꦏꦺꦕꦺ diwaca?",
     "a": "kécé",
     "opts": [
       "kédé",
@@ -89,7 +89,7 @@
   },
   {
     "level": 2,
-    "q": "ꦭꦺꦴꦫꦺꦴ dibaca?",
+    "q": "ꦭꦺꦴꦫꦺꦴ diwaca?",
     "a": "loro",
     "opts": [
       "logo",
@@ -99,19 +99,30 @@
     ]
   },
   {
-    "level": 3,
-    "q": "Pangkon ꦲꦤ꧀ dibaca?",
-    "a": "han",
+    "level": 2,
+    "q": "ꦠꦼꦧꦸ diwaca?",
+    "a": "tebu",
     "opts": [
-      "han",
-      "hang",
-      "har",
-      "ham"
+      "lebu",
+      "telu",
+      "tebu",
+      "lemu"
     ]
   },
   {
     "level": 3,
-    "q": "Layar ꦲꦂ dibaca?",
+    "q": "ꦥꦁꦏꦸ diwaca?",
+    "a": "pangku",
+    "opts": [
+      "wangku",
+      "wangnu",
+      "bangku",
+      "pangku"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "Layar ꦲꦂ diwaca?",
     "a": "har",
     "opts": [
       "har",
@@ -122,7 +133,7 @@
   },
   {
     "level": 3,
-    "q": "Cecak ꦏꦁ dibaca?",
+    "q": "Cecak ꦏꦁ diwaca?",
     "a": "kang",
     "opts": [
       "kang",
@@ -177,7 +188,7 @@
   },
   {
     "level": 6,
-    "q": "Aksara ꦔ dibaca?",
+    "q": "Aksara ꦔ diwaca?",
     "a": "nga",
     "opts": [
       "nga",
@@ -188,7 +199,7 @@
   },
   {
     "level": 6,
-    "q": "Aksara ꦚ dibaca?",
+    "q": "Aksara ꦚ diwaca?",
     "a": "nya",
     "opts": [
       "nya",
