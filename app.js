@@ -7248,7 +7248,7 @@ function po() {
                     go();
                     return
                 }
-                E = "RACING", O = y, m = {}, a = typeof Q !== "undefined" ? Q : (window.__durasiSoal||30);
+                E = "RACING", O = y, m = {}, a = window.__durasiSoal||30;
                 let g = _[y],
                     w = document.getElementById("hostGameArea"),
                     C = document.getElementById("hostNextWrap");
@@ -7376,8 +7376,8 @@ function po() {
                 else g.innerHTML = '<div class="cd-big go">GO!</div><div class="cd-sub">Mulai!</div>'
             }
 
-            function _f(y, g, w, C2) {
-                let __dur = C2||window.__durasiSoal||30;
+            function _f(y, g, w, D2) {
+                let __dur = D2||window.__durasiSoal||30;
                 window.__playerDurasi = __dur;
                 if(window.__playerTimer) clearInterval(window.__playerTimer);
                 let C = document.getElementById("playerCountdown"),
@@ -7386,7 +7386,7 @@ function po() {
                 if (z) z.style.display = "none";
                 let x = document.getElementById("playerGameArea");
                 if (!x) return;
-                x.style.display = "block", P = "RACING", L = y, F = g, G = w, ve = null, Be = 0, x.innerHTML = `<div class="pq-head"><span class="badge-lv">Level ${y.level}</span><span class="q-progress">Soal ${g+1}/${w}</span><span id="playerTimer" class="timer" style="margin-left:6px;background:#0f172a;color:#fff;padding:2px 8px;border-radius:8px;font-weight:800">30s</span><span class="my-score">⭐ ${Qn}</span></div><div class="q-latin">${i(y.q)}</div><div class="tulis-label">Pilih jawaban, lalu tekan SUBMIT:</div><div class="opts" id="optsGrid">${y.opts.map((ue)=>`<button class="opt-btn" data-ans="${i(ue)}">${i(ue)}</button>`).join("")}</div><div class="grid-aksara-label">Grid Aksara Referensi:</div><div class="grid-aksara">${["ꦲ","ꦤ","ꦕ","ꦫ","ꦏ","ꦢ","ꦠ","ꦱ","ꦮ","ꦭ","ꦥ","ꦝ"].map((ue)=>`<span class="aks-cell">${ue}</span>`).join("")}</div><div id="attemptInfo" class="attempt-info">Percobaan: 0/3 • Potensi poin: 100</div><button id="btnSubmitJawab" class="accent" disabled>SUBMIT JAWABAN</button><div id="playerFeedback"></div>`;
+                x.style.display = "block", P = "RACING", L = y, F = g, G = w, ve = null, Be = 0, x.innerHTML = `<div class="pq-head"><span class="badge-lv">Level ${y.level}</span><span class="q-progress">Soal ${g+1}/${w}</span><span id="playerTimer" class="timer" style="margin-left:6px;background:#0f172a;color:#fff;padding:2px 8px;border-radius:8px;font-weight:800">${__dur}s</span><span class="my-score">⭐ ${Qn}</span></div><div class="q-latin">${i(y.q)}</div><div class="tulis-label">Pilih jawaban, lalu tekan SUBMIT:</div><div class="opts" id="optsGrid">${y.opts.map((ue)=>`<button class="opt-btn" data-ans="${i(ue)}">${i(ue)}</button>`).join("")}</div><div class="grid-aksara-label">Grid Aksara Referensi:</div><div class="grid-aksara">${["ꦲ","ꦤ","ꦕ","ꦫ","ꦏ","ꦢ","ꦠ","ꦱ","ꦮ","ꦭ","ꦥ","ꦝ"].map((ue)=>`<span class="aks-cell">${ue}</span>`).join("")}</div><div id="attemptInfo" class="attempt-info">Percobaan: 0/3 • Potensi poin: 100</div><button id="btnSubmitJawab" class="accent" disabled>SUBMIT JAWABAN</button><div id="playerFeedback"></div>`;
                 let R = x.querySelectorAll(".opt-btn");
                 R.forEach((ue) => {
                     ue.addEventListener("click", () => {
