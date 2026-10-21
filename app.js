@@ -7874,7 +7874,13 @@ function po() {
                                     maxLength: 4,
                                     autoComplete: "off",
                                     placeholder: "Contoh: ABCD",
-                                    inputMode: "text"
+                                    inputMode: "text",
+                                    style: {
+                                        textTransform: "uppercase"
+                                    },
+                                    onInput: (e) => {
+                                        e.target.value = e.target.value.toUpperCase()
+                                    }
                                 })]
                             }), le("div", {
                                 className: "field",
