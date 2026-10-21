@@ -1,101 +1,101 @@
 [
   {
     "level": 1,
-    "q": "ꦲ dibaca?",
-    "a": "ha",
+    "q": "ꦲꦤ dibaca?",
+    "a": "hana",
     "opts": [
-      "ha",
-      "na",
-      "ca",
-      "ma"
+      "hana",
+      "naha",
+      "haka",
+      "kaha"
     ]
   },
   {
     "level": 1,
-    "q": "ꦤ dibaca?",
-    "a": "na",
+    "q": "ꦤꦠ dibaca?",
+    "a": "nata",
     "opts": [
-      "na",
-      "ha",
-      "sa",
-      "ca"
+      "naha",
+      "nata",
+      "kasa",
+      "naca"
     ]
   },
   {
     "level": 1,
-    "q": "ꦕ dibaca?",
-    "a": "ca",
+    "q": "ꦕꦫ dibaca?",
+    "a": "cara",
     "opts": [
-      "ca",
-      "ja",
-      "nya",
-      "ra"
+      "nara",
+      "cara",
+      "nyara",
+      "kara"
     ]
   },
   {
     "level": 1,
-    "q": "ꦫ dibaca?",
-    "a": "ra",
+    "q": "ꦫꦒ dibaca?",
+    "a": "raga",
     "opts": [
-      "ra",
-      "ka",
-      "da",
-      "ga"
+      "gara",
+      "kara",
+      "raga",
+      "dara"
     ]
   },
   {
     "level": 1,
-    "q": "ꦏ dibaca?",
-    "a": "ka",
+    "q": "ꦏꦭ dibaca?",
+    "a": "kala",
     "opts": [
-      "ka",
-      "ta",
-      "la",
-      "na"
+      "kaha",
+      "tala",
+      "kala",
+      "naha"
     ]
   },
   {
     "level": 2,
-    "q": "ꦲꦶ dibaca?",
-    "a": "hi",
+    "q": "ꦲꦶꦏꦶ dibaca?",
+    "a": "hiki",
     "opts": [
-      "hi",
-      "li",
-      "pi",
-      "ni"
+      "liki",
+      "lini",
+      "hiki",
+      "niki"
     ]
   },
   {
     "level": 2,
-    "q": "ꦤꦸ dibaca?",
-    "a": "nu",
+    "q": "ꦤꦸꦏꦸ dibaca?",
+    "a": "nuku",
     "opts": [
-      "nu",
-      "ku",
-      "pu",
-      "wu"
+      "nulu",
+      "nuku",
+      "kunu",
+      "kuku"
     ]
   },
   {
     "level": 2,
-    "q": "ꦏꦺ dibaca?",
-    "a": "ké",
+    "q": "ꦏꦺꦕꦺ dibaca?",
+    "a": "kécé",
     "opts": [
-      "ké",
-      "né",
-      "pé",
-      "wé"
+      "kédé",
+      "nésé",
+      "pécé",
+      "kécé"
     ]
   },
   {
     "level": 2,
-    "q": "ꦫꦺꦴ dibaca?",
-    "a": "ro",
+    "q": "ꦭꦺꦴꦫꦺꦴ dibaca?",
+    "a": "loro",
     "opts": [
-      "go",
-      "ro",
-      "no",
-      "yo"
+      "logo",
+      "loro",
+      "horo",
+      "loyo"
     ]
   },
   {
