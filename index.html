@@ -1,13 +1,157 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sprint Aksara Jawa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hanacaraka Sprint - Game Kuis Aksara Jawa Modern</title>
+  
+  <!-- Font Google Modern & Aksara Jawa -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Javanese:wght@400;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+  
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Ambient Background Glow Orbs -->
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <!-- Header Navigasi Atas -->
+  <header class="top-nav">
+    <div class="nav-container">
+      <div class="brand-logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">AksaraSprint</span>
+      </div>
+      <button id="btnOpenGuide" class="guide-trigger-btn" type="button">
+        <span class="icon">📖</span>
+        <span>Petunjuk Game</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Container Utama React -->
   <div id="root"></div>
+
+  <!-- Modal Petunjuk & Panduan Game -->
+  <div id="guideModal" class="guide-modal-backdrop">
+    <div class="guide-modal">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="modal-badge">PANDUAN PERMAINAN</span>
+          <h2>Petunjuk Hanacaraka Sprint</h2>
+        </div>
+        <button id="btnCloseGuide" class="close-btn" aria-label="Tutup">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- Pengenalan Game -->
+        <div class="guide-section highlight-box">
+          <div class="section-icon">🎯</div>
+          <div>
+            <h3>Tentang Hanacaraka Sprint</h3>
+            <p><strong>Hanacaraka Sprint</strong> adalah game kuis interaktif <em>multiplayer realtime</em> untuk belajar dan menguji ketangkasan membaca <strong>Aksara Jawa</strong> secara seru, cepat, dan kompetitif!</p>
+          </div>
+        </div>
+
+        <!-- Panduan Peran -->
+        <div class="guide-grid">
+          <div class="role-card host-card">
+            <div class="role-badge">🎓 GURU / HOST</div>
+            <h4>Cara Mengoperasikan Game</h4>
+            <ol class="step-list">
+              <li>Pilih tombol <strong>"Jadi Host"</strong> untuk membuat room kuis.</li>
+              <li>Bagikan <strong>4 Huruf Kode Room</strong> atau <strong>QR Code</strong> kepada siswa.</li>
+              <li>Tentukan rentang <strong>Level Soal (Lv 1 - 8)</strong> & <strong>Jumlah Soal (5 - 20)</strong>.</li>
+              <li>Setelah siswa bergabung di lobby, tekan <strong>"Mulai Game"</strong>.</li>
+              <li>Pantau pengerjaan siswa secara realtime, lihat podium tiap soal, dan klasemen akhir.</li>
+            </ol>
+          </div>
+
+          <div class="role-card player-card">
+            <div class="role-badge">📱 SISWA / PLAYER</div>
+            <h4>Cara Bergabung & Bermain</h4>
+            <ol class="step-list">
+              <li>Pilih tombol <strong>"Join Siswa"</strong> atau scan QR Code dari Host.</li>
+              <li>Masukkan <strong>4 Huruf Kode Room</strong> dan <strong>Nama Panggilan</strong> kamu.</li>
+              <li>Tunggu di Lobby hingga Host memulai jalannya pertandingan.</li>
+              <li>Pilih jawaban Latin yang tepat sesuai soal Aksara Jawa sebelum batas waktu habis.</li>
+              <li>Manfaatkan tabel <strong>Grid Aksara Referensi</strong> untuk membantu mengingat huruf.</li>
+            </ol>
+          </div>
+        </div>
+
+        <!-- Aturan & Perhitungan Poin -->
+        <div class="guide-section rules-box">
+          <h3>⚡ Aturan Waktu & Perhitungan Skor</h3>
+          <div class="rules-grid">
+            <div class="rule-item">
+              <span class="rule-icon">⏱️</span>
+              <div class="rule-detail">
+                <strong>Waktu 90 Detik</strong>
+                <span>Setiap soal memiliki batas waktu maksimal 90 detik.</span>
+              </div>
+            </div>
+            <div class="rule-item">
+              <span class="rule-icon">🔄</span>
+              <div class="rule-detail">
+                <strong>3x Kesempatan Jawab</strong>
+                <span>Jika salah, kamu bisa mencoba lagi hingga maksimal 3 kali per soal.</span>
+              </div>
+            </div>
+            <div class="rule-item">
+              <span class="rule-icon">🥇</span>
+              <div class="rule-detail">
+                <strong>Skor Berdasarkan Percobaan</strong>
+                <span>
+                  • Benar Coba 1: <strong>100 Poin</strong><br>
+                  • Benar Coba 2: <strong>85 Poin</strong><br>
+                  • Benar Coba 3: <strong>70 Poin</strong><br>
+                  • Gagal 3x: <strong>10 Poin</strong> (Penghibur)
+                </span>
+              </div>
+            </div>
+            <div class="rule-item">
+              <span class="rule-icon">🏆</span>
+              <div class="rule-detail">
+                <strong>Podium & Juara</strong>
+                <span>Pemenang ditentukan berdasarkan total akumulasi poin tertinggi di akhir sesi!</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button id="btnGotIt" class="accent-btn" type="button">Saya Mengerti, Ayo Main! 🚀</button>
+      </div>
+    </div>
+  </div>
+
   <script type="module" src="app.js"></script>
+
+  <!-- Script Modal Petunjuk (Independen, Tanpa Mengganggu app.js) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const btnOpen = document.getElementById('btnOpenGuide');
+      const btnClose = document.getElementById('btnCloseGuide');
+      const btnGotIt = document.getElementById('btnGotIt');
+      const modal = document.getElementById('guideModal');
+
+      const openModal = () => modal?.classList.add('active');
+      const closeModal = () => modal?.classList.remove('active');
+
+      if (btnOpen) btnOpen.addEventListener('click', openModal);
+      if (btnClose) btnClose.addEventListener('click', closeModal);
+      if (btnGotIt) btnGotIt.addEventListener('click', closeModal);
+      if (modal) {
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) closeModal();
+        });
+      }
+    });
+  </script>
 </body>
 </html>
