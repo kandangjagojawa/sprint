@@ -112,7 +112,7 @@
   {
     "level": 3,
     "q": "ꦥꦁꦏꦸ diwaca?",
-    "pangku",
+    "a": "pangku",
     "opts": [
       "rengku",
       "pangku",
@@ -134,7 +134,7 @@
   {
     "level": 3,
     "q": "ꦏꦁꦏꦸꦁ diwaca?",
-    "kangkung",
+    "a": "kangkung",
     "opts": [
       "kungkang",
       "kangkang",
