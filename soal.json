@@ -1,0 +1,202 @@
+[
+  {
+    "level": 1,
+    "q": "Aksara ꦲ dibaca?",
+    "a": "ha",
+    "opts": [
+      "ha",
+      "na",
+      "ca"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦤ dibaca?",
+    "a": "na",
+    "opts": [
+      "na",
+      "ha",
+      "sa"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦕ dibaca?",
+    "a": "ca",
+    "opts": [
+      "ca",
+      "ja",
+      "nya"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦫ dibaca?",
+    "a": "ra",
+    "opts": [
+      "ra",
+      "ka",
+      "da"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦏ dibaca?",
+    "a": "ka",
+    "opts": [
+      "ka",
+      "ta",
+      "la"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "Wulu ꦲꦶ dibaca?",
+    "a": "hi",
+    "opts": [
+      "hi",
+      "ha",
+      "hu"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "Suku ꦤꦸ dibaca?",
+    "a": "nu",
+    "opts": [
+      "nu",
+      "na",
+      "ni"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "Taling ꦏꦺ dibaca?",
+    "a": "ke",
+    "opts": [
+      "ke",
+      "ka",
+      "ko"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "Taling tarung ꦫꦺꦴ dibaca?",
+    "a": "ro",
+    "opts": [
+      "ro",
+      "re",
+      "ra"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "Pangkon ꦲꦤ꧀ dibaca?",
+    "a": "han",
+    "opts": [
+      "han",
+      "hang",
+      "har"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "Layar ꦲꦂ dibaca?",
+    "a": "har",
+    "opts": [
+      "har",
+      "han",
+      "has"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "Cecak ꦏꦁ dibaca?",
+    "a": "kang",
+    "opts": [
+      "kang",
+      "kan",
+      "kar"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "Arti ꦧꦺꦴꦕꦃ ꦲꦶꦏꦶ?",
+    "a": "bocah iki",
+    "opts": [
+      "bocah iki",
+      "bocah iku",
+      "bocah ana"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "Arti ꦲꦏꦸ sinau?",
+    "a": "aku",
+    "opts": [
+      "aku",
+      "kowe",
+      "dheweke"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "Pasangan ꦤ di bawah ꦲ jadi?",
+    "a": "ꦲ꧀ꦤ",
+    "opts": [
+      "ꦲ꧀ꦤ",
+      "ꦲꦤ",
+      "ꦤ꧀ꦲ"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "Tulis saka dengan pasangan?",
+    "a": "ꦱꦏ",
+    "opts": [
+      "ꦱꦏ",
+      "ꦱꦏ꧀",
+      "ꦱꦃꦏ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Aksara ꦔ dibaca?",
+    "a": "nga",
+    "opts": [
+      "nga",
+      "na",
+      "nya"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Aksara ꦚ dibaca?",
+    "a": "nya",
+    "opts": [
+      "nya",
+      "nga",
+      "na"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "Fungsi ꧀ di tengah?",
+    "a": "mematikan vokal",
+    "opts": [
+      "mematikan vokal",
+      "menambah o",
+      "menambah e"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "Angka Jawa ꧑?",
+    "a": "1",
+    "opts": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+]
