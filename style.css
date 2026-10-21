@@ -1057,3 +1057,13 @@ input:focus, select:focus {
   display: grid;
   gap: 10px;
 }
+
+.about-hero {
+  display: flex;
+  gap: 14px;
+  background: rgba(99,102,241,0.06);
+  border: 1.5px solid rgba(99,102,241,0.18);
+  border-radius: 16px;
+  padding: 16px 18px;
+  margin: 0 0 22px 0;
+}
