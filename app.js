@@ -7708,7 +7708,7 @@ function po() {
             }), D("p", {
                 className: "sub",
                 children: "Belajar Aksara Jawa Bareng"
-            }), le("div", {
+            }), /*le("div", {
                 className: "about-hero",
                 children: [
                     D("div", {className:"about-icon", children:"🎯"}),
@@ -7716,7 +7716,7 @@ function po() {
                         D("h3",{children:"Uji Ketangkasan"}),
                         D("p",{children:"Game kuis interaktif multiplayer realtime."})
                     ]})
-                ]
+                ] */
             }), D("div", {
                 id: "v-landing",
                 className: "view active",
