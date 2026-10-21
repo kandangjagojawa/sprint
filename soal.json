@@ -1,0 +1,262 @@
+[
+  {
+    "level": 1,
+    "q": "Aksara ꦲ dibaca?",
+    "a": "ha",
+    "opts": [
+      "ha",
+      "na",
+      "ca"
+    ],
+    "jawa": "ꦲ",
+    "latin": "ha",
+    "hint": "Huruf pertama hanacaraka"
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦤ dibaca?",
+    "a": "na",
+    "opts": [
+      "na",
+      "ha",
+      "sa"
+    ],
+    "jawa": "ꦤ",
+    "latin": "na",
+    "hint": "Pasangan ha-na"
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦕ dibaca?",
+    "a": "ca",
+    "opts": [
+      "ca",
+      "ja",
+      "nya"
+    ],
+    "jawa": "ꦕ",
+    "latin": "ca",
+    "hint": "ca-ra-ka"
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦫ dibaca?",
+    "a": "ra",
+    "opts": [
+      "ra",
+      "ka",
+      "da"
+    ],
+    "jawa": "ꦫ",
+    "latin": "ra",
+    "hint": "ra setelah ca"
+  },
+  {
+    "level": 1,
+    "q": "Aksara ꦏ dibaca?",
+    "a": "ka",
+    "opts": [
+      "ka",
+      "ta",
+      "la"
+    ],
+    "jawa": "ꦏ",
+    "latin": "ka",
+    "hint": "ka akhir baris"
+  },
+  {
+    "level": 2,
+    "q": "Wulu ꦲꦶ dibaca?",
+    "a": "hi",
+    "opts": [
+      "hi",
+      "ha",
+      "hu"
+    ],
+    "jawa": "ꦲꦶ",
+    "latin": "hi",
+    "hint": "Wulu = i"
+  },
+  {
+    "level": 2,
+    "q": "Suku ꦤꦸ dibaca?",
+    "a": "nu",
+    "opts": [
+      "nu",
+      "na",
+      "ni"
+    ],
+    "jawa": "ꦤꦸ",
+    "latin": "nu",
+    "hint": "Suku = u"
+  },
+  {
+    "level": 2,
+    "q": "Taling ꦏꦺ dibaca?",
+    "a": "ke",
+    "opts": [
+      "ke",
+      "ka",
+      "ko"
+    ],
+    "jawa": "ꦏꦺ",
+    "latin": "ke",
+    "hint": "Taling = e"
+  },
+  {
+    "level": 2,
+    "q": "Taling tarung ꦫꦺꦴ dibaca?",
+    "a": "ro",
+    "opts": [
+      "ro",
+      "re",
+      "ra"
+    ],
+    "jawa": "ꦫꦺꦴ",
+    "latin": "ro",
+    "hint": "Tarung = o"
+  },
+  {
+    "level": 3,
+    "q": "Pangkon ꦲꦤ꧀ dibaca?",
+    "a": "han",
+    "opts": [
+      "han",
+      "hang",
+      "har"
+    ],
+    "jawa": "ꦲꦤ꧀",
+    "latin": "han",
+    "hint": "Pangkon mati vokal"
+  },
+  {
+    "level": 3,
+    "q": "Layar ꦲꦂ dibaca?",
+    "a": "har",
+    "opts": [
+      "har",
+      "han",
+      "has"
+    ],
+    "jawa": "ꦲꦂ",
+    "latin": "har",
+    "hint": "Layar = r"
+  },
+  {
+    "level": 3,
+    "q": "Cecak ꦏꦁ dibaca?",
+    "a": "kang",
+    "opts": [
+      "kang",
+      "kan",
+      "kar"
+    ],
+    "jawa": "ꦏꦁ",
+    "latin": "kang",
+    "hint": "Cecak = ng"
+  },
+  {
+    "level": 4,
+    "q": "Arti ꦧꦺꦴꦕꦃ ꦲꦶꦏꦶ?",
+    "a": "bocah iki",
+    "opts": [
+      "bocah iki",
+      "bocah iku",
+      "bocah ana"
+    ],
+    "jawa": "ꦧꦺꦴꦕꦃ ꦲꦶꦏꦶ",
+    "latin": "bocah iki",
+    "hint": "Kalimat"
+  },
+  {
+    "level": 4,
+    "q": "Arti ꦲꦏꦸ sinau?",
+    "a": "aku",
+    "opts": [
+      "aku",
+      "kowe",
+      "dheweke"
+    ],
+    "jawa": "ꦲꦏꦸ",
+    "latin": "aku",
+    "hint": "Kata ganti"
+  },
+  {
+    "level": 5,
+    "q": "Pasangan ꦤ di bawah ꦲ jadi?",
+    "a": "ꦲ꧀ꦤ",
+    "opts": [
+      "ꦲ꧀ꦤ",
+      "ꦲꦤ",
+      "ꦤ꧀ꦲ"
+    ],
+    "jawa": "ꦲ꧀ꦤ",
+    "latin": "hna",
+    "hint": "Pasangan bawah"
+  },
+  {
+    "level": 5,
+    "q": "Tulis saka dengan pasangan?",
+    "a": "ꦱꦏ",
+    "opts": [
+      "ꦱꦏ",
+      "ꦱꦏ꧀",
+      "ꦱꦃꦏ"
+    ],
+    "jawa": "ꦱꦏ",
+    "latin": "saka",
+    "hint": "Tanpa pangkon"
+  },
+  {
+    "level": 6,
+    "q": "Aksara ꦔ dibaca?",
+    "a": "nga",
+    "opts": [
+      "nga",
+      "na",
+      "nya"
+    ],
+    "jawa": "ꦔ",
+    "latin": "nga",
+    "hint": "Nga lelet"
+  },
+  {
+    "level": 6,
+    "q": "Aksara ꦚ dibaca?",
+    "a": "nya",
+    "opts": [
+      "nya",
+      "nga",
+      "na"
+    ],
+    "jawa": "ꦚ",
+    "latin": "nya",
+    "hint": "Nya"
+  },
+  {
+    "level": 7,
+    "q": "Fungsi ꧀ di tengah?",
+    "a": "mematikan vokal",
+    "opts": [
+      "mematikan vokal",
+      "menambah o",
+      "menambah e"
+    ],
+    "jawa": "꧀",
+    "latin": "pangkon",
+    "hint": "Tanda mati"
+  },
+  {
+    "level": 8,
+    "q": "Angka Jawa ꧑?",
+    "a": "1",
+    "opts": [
+      "1",
+      "2",
+      "3"
+    ],
+    "jawa": "꧑",
+    "latin": "1",
+    "hint": "Angka"
+  }
+]
