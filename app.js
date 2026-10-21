@@ -759,18 +759,18 @@ Error generating stack: `+i.message+`
             <div style="font-weight:800;color:#5D4037;margin-bottom:10px">\uD83C\uDFC6 Podium Soal \${hostState.qIndex+1}</div>
             \${sorted.length===0? '<div style="color:#5D403760;font-weight:700">Tidak ada data</div>' : sorted.slice(0,5).map((p,i)=>{
               return \`<div class="studentRow" style="\${i===0?'border:2px solid #D4A017;background:#FFFBEB':''}"><div style="font-weight:800;width:24px">\${i+1}</div><div style="flex:1"><div style="font-weight:800">\${p.name}</div><div style="font-size:11px;opacity:.7">\${p.correct?'✅ Benar':'⚠️'} \${p.points||0} poin • \${(p.time||0).toFixed(1)}s • \${p.attempts||0}x salah</div></div><div class="pill" style="background:\${i===0?'#D4A017':'#FFF8E7'};color:\${i===0?'#5D4037':'#5D4037'}">\${p.points||0}</div></div>\`;
-+            }).join("")}
-+            <div style="margin-top:10px;font-size:11px;opacity:.6">Ranking per soal: points desc lalu time asc.</div>
-+          \`;
-+          if(hostState.qIndex >= hostState.questions.length-1){
-+            const finalSorted = [...players].sort((a,b)=> (b.totalPoints||0)-(a.totalPoints||0));
-+            const finalDiv = document.getElementById("hostFinal");
-+            finalDiv.style.display="block";
-+            finalDiv.innerHTML = \`
-+              <div style="font-weight:800;color:#5D4037;margin-bottom:10px">\uD83C\uDFC1 Klasemen Akhir Total Poin (\${hostState.questions.length} soal)</div>
-+              \${finalSorted.map((p,i)=>\`<div class="studentRow" style="\${i<3?'background:#FFFBEB;border:2px solid #D4A017':''}"><div style="width:28px;height:28px;border-radius:50%;background:\${i===0?'#D4A017':i===1?'#9E9E9E':i===2?'#8D6E63':'#EEE'};color:#fff;display:grid;place-items:center;font-weight:800;font-size:12px">\${i+1}</div><div style="flex:1"><div style="font-weight:800">\${p.name}</div><div style="font-size:11px;opacity:.7">Total \${p.totalPoints||0} poin • \${(p.history||[]).filter(h=>h.correct).length} benar dari \${hostState.questions.length}</div></div><div style="font-weight:800">\${p.totalPoints||0}</div></div>\`).join("")}
-+              <div style="display:flex;gap:8px;margin-top:12px"><button id="hostRestart" class="btn btn-primary btn-big" style="flex:1">ULANG DENGAN LEVEL SAMA</button><button id="hostBackToLevel" class="btn btn-ghost" style="flex:1">GANTI LEVEL</button></div>
-+            \`;
++                        }).join("")}
+            <div style="margin-top:10px;font-size:11px;opacity:.6">Ranking per soal: points desc lalu time asc.</div>
+          \`;
+          if(hostState.qIndex >= hostState.questions.length-1){
+            const finalSorted = [...players].sort((a,b)=> (b.totalPoints||0)-(a.totalPoints||0));
+            const finalDiv = document.getElementById("hostFinal");
+            finalDiv.style.display="block";
+            finalDiv.innerHTML = `
+              <div style="font-weight:800;color:#5D4037;margin-bottom:10px">🏁 Klasemen Akhir Total Poin (${hostState.questions.length} soal)</div>
+              ${finalSorted.map((p,i)=>`<div class="studentRow" style="${i<3?'background:#FFFBEB;border:2px solid #D4A017':''}"><div style="width:28px;height:28px;border-radius:50%;background:${i===0?'#D4A017':i===1?'#9E9E9E':i===2?'#8D6E63':'#EEE'};color:#fff;display:grid;place-items:center;font-weight:800;font-size:12px">${i+1}</div><div style="flex:1"><div style="font-weight:800">${p.name}</div><div style="font-size:11px;opacity:.7">Total ${p.totalPoints||0} poin • ${(p.history\vert{}\vert{}[]).filter(h=>h.correct).length} benar dari${hostState.questions.length}</div></div><div style="font-weight:800">${p.totalPoints||0}</div></div>`).join("")}
+              <div style="display:flex;gap:8px;margin-top:12px"><button id="hostRestart" class="btn btn-primary btn-big" style="flex:1">ULANG DENGAN LEVEL SAMA</button><button id="hostBackToLevel" class="btn btn-ghost" style="flex:1">GANTI LEVEL</button></div>
+            `;
 +            document.getElementById("hostRestart").onclick = ()=>{ hostState.qIndex=0; Object.values(hostState.players).forEach(p=>{ p.totalPoints=0; p.history=[]; p.streak=0; }); broadcastQuestion(); document.getElementById("hostFinal").style.display="none"; };
 +            document.getElementById("hostBackToLevel").onclick = ()=>{
 +              document.getElementById("hostLevelCard").style.display="block";
@@ -794,10 +794,17 @@ Error generating stack: `+i.message+`
 +
 +        document.getElementById("btnJoin").onclick = joinAsPlayer;
 +        async function joinAsPlayer(){
-+          const code = document.getElementById("joinCode").value.trim().toUpperCase();
-+          const name = document.getElementById("joinName").value.trim() || "Siswa";
-+          const errBox = document.getElementById("joinErr");
-+          if(code.length!==4){ errBox.style.display="block"; errBox.textContent="Kode harus 4 huruf"; return; }
+  const rawCode = document.getElementById("joinCode").value.trim().toUpperCase();
+  // Sanitasi: Hapus spasi dan karakter khusus agar hanya tersisa huruf/angka
+  const code = rawCode.replace(/[^A-Z0-9]/g, '');
+  const name = document.getElementById("joinName").value.trim() || "Siswa";
+  const errBox = document.getElementById("joinErr");
+
+  if(code.length !== 4){ 
+    errBox.style.display = "block"; 
+    errBox.textContent = "Kode harus 4 huruf/angka"; 
+    return; 
+  }
 +          if(name.length<2){ errBox.style.display="block"; errBox.textContent="Nama minimal 2 huruf"; return; }
 +          errBox.style.display="none";
 +          cleanupAll();
