@@ -9,8 +9,7 @@
       "ca"
     ],
     "jawa": "ꦲ",
-    "latin": "ha",
-    "hint": "Huruf pertama hanacaraka"
+    "latin": "ha"
   },
   {
     "level": 1,
@@ -22,8 +21,7 @@
       "sa"
     ],
     "jawa": "ꦤ",
-    "latin": "na",
-    "hint": "Pasangan ha-na"
+    "latin": "na"
   },
   {
     "level": 1,
@@ -35,8 +33,7 @@
       "nya"
     ],
     "jawa": "ꦕ",
-    "latin": "ca",
-    "hint": "ca-ra-ka"
+    "latin": "ca"
   },
   {
     "level": 1,
@@ -48,8 +45,7 @@
       "da"
     ],
     "jawa": "ꦫ",
-    "latin": "ra",
-    "hint": "ra setelah ca"
+    "latin": "ra"
   },
   {
     "level": 1,
@@ -61,8 +57,7 @@
       "la"
     ],
     "jawa": "ꦏ",
-    "latin": "ka",
-    "hint": "ka akhir baris"
+    "latin": "ka"
   },
   {
     "level": 2,
@@ -74,8 +69,7 @@
       "hu"
     ],
     "jawa": "ꦲꦶ",
-    "latin": "hi",
-    "hint": "Wulu = i"
+    "latin": "hi"
   },
   {
     "level": 2,
@@ -87,8 +81,7 @@
       "ni"
     ],
     "jawa": "ꦤꦸ",
-    "latin": "nu",
-    "hint": "Suku = u"
+    "latin": "nu"
   },
   {
     "level": 2,
@@ -100,8 +93,7 @@
       "ko"
     ],
     "jawa": "ꦏꦺ",
-    "latin": "ke",
-    "hint": "Taling = e"
+    "latin": "ke"
   },
   {
     "level": 2,
@@ -113,8 +105,7 @@
       "ra"
     ],
     "jawa": "ꦫꦺꦴ",
-    "latin": "ro",
-    "hint": "Tarung = o"
+    "latin": "ro"
   },
   {
     "level": 3,
@@ -126,8 +117,7 @@
       "har"
     ],
     "jawa": "ꦲꦤ꧀",
-    "latin": "han",
-    "hint": "Pangkon mati vokal"
+    "latin": "han"
   },
   {
     "level": 3,
@@ -139,8 +129,7 @@
       "has"
     ],
     "jawa": "ꦲꦂ",
-    "latin": "har",
-    "hint": "Layar = r"
+    "latin": "har"
   },
   {
     "level": 3,
@@ -152,8 +141,7 @@
       "kar"
     ],
     "jawa": "ꦏꦁ",
-    "latin": "kang",
-    "hint": "Cecak = ng"
+    "latin": "kang"
   },
   {
     "level": 4,
@@ -165,8 +153,7 @@
       "bocah ana"
     ],
     "jawa": "ꦧꦺꦴꦕꦃ ꦲꦶꦏꦶ",
-    "latin": "bocah iki",
-    "hint": "Kalimat"
+    "latin": "bocah iki"
   },
   {
     "level": 4,
@@ -178,8 +165,7 @@
       "dheweke"
     ],
     "jawa": "ꦲꦏꦸ",
-    "latin": "aku",
-    "hint": "Kata ganti"
+    "latin": "aku"
   },
   {
     "level": 5,
@@ -191,8 +177,7 @@
       "ꦤ꧀ꦲ"
     ],
     "jawa": "ꦲ꧀ꦤ",
-    "latin": "hna",
-    "hint": "Pasangan bawah"
+    "latin": "hna"
   },
   {
     "level": 5,
@@ -204,8 +189,7 @@
       "ꦱꦃꦏ"
     ],
     "jawa": "ꦱꦏ",
-    "latin": "saka",
-    "hint": "Tanpa pangkon"
+    "latin": "saka"
   },
   {
     "level": 6,
@@ -217,8 +201,7 @@
       "nya"
     ],
     "jawa": "ꦔ",
-    "latin": "nga",
-    "hint": "Nga lelet"
+    "latin": "nga"
   },
   {
     "level": 6,
@@ -230,8 +213,7 @@
       "na"
     ],
     "jawa": "ꦚ",
-    "latin": "nya",
-    "hint": "Nya"
+    "latin": "nya"
   },
   {
     "level": 7,
@@ -243,8 +225,7 @@
       "menambah e"
     ],
     "jawa": "꧀",
-    "latin": "pangkon",
-    "hint": "Tanda mati"
+    "latin": "pangkon"
   },
   {
     "level": 8,
@@ -256,7 +237,6 @@
       "3"
     ],
     "jawa": "꧑",
-    "latin": "1",
-    "hint": "Angka"
+    "latin": "1"
   }
 ]
