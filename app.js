@@ -7216,7 +7216,10 @@ function po() {
                 let g = document.getElementById("hostCountdownOverlay"),
                     w = document.getElementById("hostGameArea");
                 if (!g || !w) return;
-                if (w.style.display = "block", g.style.display = "flex", y > 0) g.innerHTML = `<div class="cd-big">${y}</div><div class="cd-sub">Siap-siap...</div>`;
+                w.style.display = "flex";
+                w.style.minHeight = "340px";
+                g.style.display = "flex";
+                if (y > 0) g.innerHTML = `<div class="cd-big">${y}</div><div class="cd-sub">Siap-siap...</div>`;
                 else g.innerHTML = '<div class="cd-big go">GO!</div><div class="cd-sub">Mulai!</div>'
             }
 
