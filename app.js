@@ -7713,8 +7713,8 @@ function po() {
                 children: [
                     D("div", {className:"about-icon", children:"🎯"}),
                     le("div", {children:[
-                        D("h3",{children:"Tentang Hanacaraka Sprint"}),
-                        D("p",{children:"Hanacaraka Sprint adalah game kuis interaktif multiplayer realtime untuk belajar dan menguji ketangkasan membaca Aksara Jawa secara seru, cepat, dan kompetitif!"})
+                        D("h3",{children:"Uji Ketangkasan"}),
+                        D("p",{children:"Game kuis interaktif multiplayer realtime."})
                     ]})
                 ]
             }), D("div", {
