@@ -112,12 +112,12 @@
   {
     "level": 3,
     "q": "ꦥꦁꦏꦸ diwaca?",
-    "kangkung",
+    "pangku",
     "opts": [
-      "kungkang",
-      "kangkang",
-      "kangkung",
-      "kangking"
+      "rengku",
+      "pangku",
+      "wangku",
+      "pakung"
     ]
   },
   {
@@ -133,24 +133,13 @@
   },
   {
     "level": 3,
-    "q": "ꦉꦱꦶꦏ꧀ꦏꦤ꧀ diwaca?",
+    "q": "ꦏꦁꦏꦸꦁ diwaca?",
     "kangkung",
     "opts": [
       "kungkang",
       "kangkang",
       "kangkung",
       "kangking"
-    ]
-  },
-  {
-    "level": 3,
-    "q": "ꦊꦩ꧀ꦧꦸ diwaca?",
-    "a": "lembu",
-    "opts": [
-      "angembu",
-      "ngnembu",
-      "lengbu",
-      "lembu"
     ]
   },
   {
