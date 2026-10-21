@@ -122,29 +122,29 @@
   },
   {
     "level": 3,
-    "q": "Layar ꦲꦂ diwaca?",
-    "a": "har",
+    "q": "ꦠꦽꦱ꧀ꦤ diwaca?",
+    "a": "tresna",
     "opts": [
-      "har",
-      "han",
-      "has",
-      "hat"
+      "tresna",
+      "kresna",
+      "karna",
+      "trasna"
     ]
   },
   {
     "level": 3,
-    "q": "Cecak ꦏꦁ diwaca?",
-    "a": "kang",
+    "q": "ꦏꦁꦏꦸꦁ diwaca?",
+    "a": "kangkung",
     "opts": [
-      "kang",
-      "kan",
-      "kar",
-      "kam"
+      "kangkang",
+      "kangku",
+      "kangkung",
+      "kangka"
     ]
   },
   {
     "level": 4,
-    "q": "Arti ꦧꦺꦴꦕꦃ ꦲꦶꦏꦶ?",
+    "q": "ꦧꦺꦴꦕꦃꦲꦶꦏꦶ diwaca",
     "a": "bocah iki",
     "opts": [
       "bocah iki",
