@@ -112,34 +112,56 @@
   {
     "level": 3,
     "q": "ꦥꦁꦏꦸ diwaca?",
-    "a": "pangku",
+    " "kangkung",
     "opts": [
-      "wangku",
-      "wangnu",
-      "bangku",
-      "pangku"
-    ]
-  },
-  {
-    "level": 3,
-    "q": "ꦠꦽꦱ꧀ꦤ diwaca?",
-    "a": "tresna",
-    "opts": [
-      "tresna",
-      "kresna",
-      "karna",
-      "trasna"
-    ]
-  },
-  {
-    "level": 3,
-    "q": "ꦏꦁꦏꦸꦁ diwaca?",
-    "a": "kangkung",
-    "opts": [
+      "kungkang",
       "kangkang",
-      "kangku",
       "kangkung",
-      "kangka"
+      "kangking"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦊꦩ꧀ꦧꦸ diwaca?",
+    "a": "lembu",
+    "opts": [
+      "angembu",
+      "ngnembu",
+      "lengbu",
+      "lembu"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦉꦱꦶꦏ꧀ꦏꦤ꧀ diwaca?",
+    "kangkung",
+    "opts": [
+      "kungkang",
+      "kangkang",
+      "kangkung",
+      "kangking"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦊꦩ꧀ꦧꦸ diwaca?",
+    "a": "lembu",
+    "opts": [
+      "angembu",
+      "ngnembu",
+      "lengbu",
+      "lembu"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦉꦱꦶꦏ꧀ꦏꦤ꧀ diwaca?",
+    "a": "resikan",
+    "opts": [
+      "resikan",
+      "persikan",
+      "presikan",
+      "resikkan"
     ]
   },
   {
@@ -149,24 +171,55 @@
     "opts": [
       "bocah iki",
       "bocah iku",
-      "bocah ana",
+      "bocah kaé",
       "bocah kuwi"
     ]
   },
   {
     "level": 4,
-    "q": "Arti ꦲꦏꦸ sinau?",
-    "a": "aku",
+    "q": "Iki pasangan aksara apa: ꧀ꦛ",
+    "a": "ꦛ",
     "opts": [
-      "aku",
-      "kowe",
-      "dheweke",
-      "guru"
+      "ꦣ",
+      "ꦛ",
+      "ꦮ",
+      "ꦢ"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "Iki pasangan aksara apa: ꧀ꦚ",
+    "a": "ꦚ",
+    "opts": [
+      "ꦔ",
+      "ꦛ",
+      "ꦧ",
+      "ꦚ"
     ]
   },
   {
     "level": 5,
     "q": "Pasangan ꦤ di bawah ꦲ jadi?",
+    "a": "ꦲ꧀ꦤ",
+    "opts": [
+      "ꦲ꧀ꦤ",
+      "ꦲꦤ",
+      "ꦤ꧀ꦲ",
+      "ꦢ꧀ꦧ"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "Tulis saka dengan pasangan?",
+    "a": "ꦱꦏ",
+    "opts": [
+      "ꦱꦏ",
+      "ꦱꦏ꧀",
+      "ꦱꦃꦏ",
+      "ꦤꦕ"
+    ]
+  },
+sangan ꦤ di bawah ꦲ jadi?",
     "a": "ꦲ꧀ꦤ",
     "opts": [
       "ꦲ꧀ꦤ",
