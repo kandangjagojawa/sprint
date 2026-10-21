@@ -7716,8 +7716,8 @@ function po() {
                         D("h3",{children:"Uji Ketangkasan"}),
                         D("p",{children:"Game kuis interaktif multiplayer realtime."})
                     ]})
-                ] */
-            }), D("div", {
+                ] 
+            }), */D("div", {
                 id: "v-landing",
                 className: "view active",
                 children: D("div", {
