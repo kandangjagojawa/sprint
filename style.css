@@ -496,6 +496,9 @@ input:focus, select:focus {
   position: relative;
   overflow: hidden;
   box-shadow: 0 15px 35px rgba(15, 23, 42, 0.08);
+  min-height: 340px;
+  align-items: center;
+  justify-content: center;
 }
 
 .countdown-overlay {
@@ -510,17 +513,26 @@ input:focus, select:focus {
   flex-direction: column;
   z-index: 20;
   border-radius: var(--radius-xl);
+  min-height: 340px; /* FIX */
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: visible;
 }
 
 .cd-big {
   font-family: 'Outfit', sans-serif;
-  font-size: 110px;
+  font-size: clamp(80px, 15vw, 120px);
   font-weight: 900;
-  line-height: 1;
+  line-height: 0.85;
   background: var(--accent-gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: popBig 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  padding: 12px 0; 
+  overflow: visible;
+  text-align: center;
 }
 
 @keyframes popBig {
@@ -529,7 +541,7 @@ input:focus, select:focus {
 }
 
 .cd-big.go {
-  font-size: 90px;
+  font-size: clamp(64px, 12vw, 90px);
   letter-spacing: 0.05em;
 }
 
