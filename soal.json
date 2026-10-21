@@ -105,7 +105,8 @@
     "opts": [
       "han",
       "hang",
-      "har"
+      "har",
+      "ham"
     ]
   },
   {
@@ -115,7 +116,8 @@
     "opts": [
       "har",
       "han",
-      "has"
+      "has",
+      "hat"
     ]
   },
   {
@@ -125,7 +127,8 @@
     "opts": [
       "kang",
       "kan",
-      "kar"
+      "kar",
+      "kam"
     ]
   },
   {
@@ -135,7 +138,8 @@
     "opts": [
       "bocah iki",
       "bocah iku",
-      "bocah ana"
+      "bocah ana",
+      "bocah kuwi"
     ]
   },
   {
@@ -145,7 +149,8 @@
     "opts": [
       "aku",
       "kowe",
-      "dheweke"
+      "dheweke",
+      "guru"
     ]
   },
   {
@@ -155,7 +160,8 @@
     "opts": [
       "ꦲ꧀ꦤ",
       "ꦲꦤ",
-      "ꦤ꧀ꦲ"
+      "ꦤ꧀ꦲ",
+      "ꦢ꧀ꦧ"
     ]
   },
   {
@@ -165,7 +171,8 @@
     "opts": [
       "ꦱꦏ",
       "ꦱꦏ꧀",
-      "ꦱꦃꦏ"
+      "ꦱꦃꦏ",
+      "ꦤꦕ"
     ]
   },
   {
@@ -175,7 +182,8 @@
     "opts": [
       "nga",
       "na",
-      "nya"
+      "nya",
+      "nia"
     ]
   },
   {
@@ -185,7 +193,8 @@
     "opts": [
       "nya",
       "nga",
-      "na"
+      "na",
+      "mba"
     ]
   },
   {
@@ -195,7 +204,8 @@
     "opts": [
       "mematikan vokal",
       "menambah o",
-      "menambah e"
+      "menambah e",
+      "menambah u"
     ]
   },
   {
@@ -205,7 +215,8 @@
     "opts": [
       "1",
       "2",
-      "3"
+      "3",
+      "4"
     ]
   }
 ]
