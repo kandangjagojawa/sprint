@@ -1052,3 +1052,8 @@ input:focus, select:focus {
 .accent-btn:hover {
   box-shadow: 0 12px 25px rgba(99, 102, 241, 0.45);
 }
+
+#hostLobbyControls {
+  display: grid;
+  gap: 10px;
+}
