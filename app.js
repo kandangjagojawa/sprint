@@ -7694,7 +7694,10 @@ function po() {
                     return
                 }
                 let x = o(z);
-                _ = x.slice(0, Math.min(C, x.length)), Object.values(p).forEach((R) => {
+                _ = x.slice(0, Math.min(C, x.length)).map((R) => ({
+                    ...R,
+                    opts: o([...R.opts])
+                })), Object.values(p).forEach((R) => {
                     R.total = 0, R.answered = !1
                 }), O = 0, m = {}, gf()
             });
