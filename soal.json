@@ -1017,11 +1017,11 @@
   {
     "level": 10,
     "q": "ꦩꦔꦤ꧀ꦱꦼꦒꦒꦺꦴꦫꦺꦁ diwaca?",
-    "a": "mangan sega goreng",
+    "a": "mangan sega goréng",
     "opts": [
       "mangan sega pecel",
       "mangan sega tiwul",
-      "mangan sega goreng",
+      "mangan sega goréng",
       "mangan sega uduk"
     ]
   },
@@ -1039,12 +1039,12 @@
   {
     "level": 10,
     "q": "ꦔꦺꦴꦩ꧀ꦧꦺꦮꦺꦢꦁꦗꦲꦺ diwaca?",
-    "a": "ngombe wedang jahe",
+    "a": "ngombe wedang jahé",
     "opts": [
-      "ngombe wedang jahe",
+      "ngombe wedang jahé",
       "ngombe wedang kopi",
-      "ngombe wedang teh",
-      "ngombe wedang ronde"
+      "ngombe wedang tèh",
+      "ngombe wedang rondé"
     ]
   },
   {
@@ -1052,7 +1052,7 @@
     "q": "ꦲꦺꦭꦶꦁꦭꦤ꧀ꦮꦱ꧀ꦥꦢ diwaca?",
     "a": "eling lan waspada",
     "opts": [
-      "eling lan prayitna",
+      "eling lan waspadha",
       "eling lan waspada",
       "nrimo lan legawa",
       "sabar lan tawakal"
