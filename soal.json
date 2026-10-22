@@ -149,7 +149,7 @@
     "opts": [
       "loro",
       "logo",
-      "horo",
+      "lara",
       "loyo"
     ]
   },
@@ -169,10 +169,10 @@
     "q": "ꦱꦠꦺ diwaca?",
     "a": "saté",
     "opts": [
-      "soto",
-      "satu",
+      "sato",
+      "caté",
       "saté",
-      "sari"
+      "daté"
     ]
   },
   {
@@ -181,8 +181,8 @@
     "a": "sapu",
     "opts": [
       "sapi",
-      "soto",
-      "suka",
+      "sawu",
+      "satu",
       "sapu"
     ]
   },
@@ -192,9 +192,9 @@
     "a": "pipi",
     "opts": [
       "pipi",
-      "pupu",
-      "pici",
-      "pico"
+      "wiwi",
+      "piwi",
+      "wipi"
     ]
   },
   {
@@ -202,10 +202,10 @@
     "q": "ꦱꦺꦴꦠꦺꦴ diwaca?",
     "a": "soto",
     "opts": [
-      "satu",
+      "coto",
       "soto",
-      "saté",
-      "siti"
+      "dowo",
+      "loro"
     ]
   },
   {
@@ -213,10 +213,10 @@
     "q": "ꦏꦼꦫꦶ diwaca?",
     "a": "keri",
     "opts": [
-      "kori",
-      "kiri",
+      "kéri",
+      "kéli",
       "keri",
-      "kuru"
+      "kera"
     ]
   },
   {
@@ -224,7 +224,7 @@
     "q": "ꦥꦁꦏꦸ diwaca?",
     "a": "pangku",
     "opts": [
-      "rengku",
+      "rangkul",
       "wangku",
       "pangku",
       "pakung"
@@ -257,10 +257,10 @@
     "q": "ꦒꦗꦃ diwaca?",
     "a": "gajah",
     "opts": [
-      "gajar",
+      "jawah",
       "gajah",
       "gajan",
-      "gajag"
+      "gadhah"
     ]
   },
   {
@@ -268,10 +268,10 @@
     "q": "ꦥꦱꦂ diwaca?",
     "a": "pasar",
     "opts": [
-      "pasah",
-      "pasan",
+      "pacar",
+      "pasang",
       "pasar",
-      "pasak"
+      "pasah"
     ]
   },
   {
@@ -279,9 +279,9 @@
     "q": "ꦮꦪꦁ diwaca?",
     "a": "wayang",
     "opts": [
-      "wayar",
-      "wayah",
-      "wayan",
+      "parang",
+      "walang",
+      "payang",
       "wayang"
     ]
   },
@@ -291,8 +291,8 @@
     "a": "mangan",
     "opts": [
       "mangan",
-      "mangah",
-      "mangar",
+      "manyan",
+      "maban",
       "mangap"
     ]
   },
@@ -301,10 +301,10 @@
     "q": "ꦉꦱꦶꦏ꧀ diwaca?",
     "a": "resik",
     "opts": [
-      "rasik",
+      "pesik",
       "resik",
-      "rosik",
-      "rusik"
+      "wesik",
+      "racik"
     ]
   },
   {
@@ -367,9 +367,9 @@
     "q": "ꦩꦔꦤ꧀ꦫꦺꦴꦠꦶ diwaca?",
     "a": "mangan roti",
     "opts": [
-      "mangan sega",
-      "mangan tahu",
-      "mangan tempe",
+      "mangan moci",
+      "mangan sosis",
+      "mangan kopi",
       "mangan roti"
     ]
   },
@@ -379,7 +379,7 @@
     "a": "nulis buku",
     "opts": [
       "nulis buku",
-      "nulis jawa",
+      "tuku buku",
       "nulis latin",
       "nulis layang"
     ]
@@ -389,10 +389,10 @@
     "q": "ꦠꦸꦏꦸꦠꦲꦸ diwaca?",
     "a": "tuku tahu",
     "opts": [
-      "tuku tempe",
+      "tuku dadu",
       "tuku tahu",
-      "tuku roti",
-      "tuku gula"
+      "dudu tahu",
+      "buku laku"
     ]
   },
   {
@@ -400,10 +400,10 @@
     "q": "ꦲꦣꦶꦏ꧀ꦏꦤ꧀ꦝꦸꦁ diwaca?",
     "a": "adhik kandhung",
     "opts": [
-      "adhik kelas",
-      "mbakyu kandhung",
+      "adhik kesandhung",
+      "adhik landhung",
       "adhik kandhung",
-      "mas kandhung"
+      "adhik nandhuk"
     ]
   },
   {
