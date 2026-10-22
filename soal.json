@@ -1,0 +1,1102 @@
+[
+  {
+    "level": 1,
+    "q": "ꦲꦤ diwaca?",
+    "a": "hana",
+    "opts": [
+      "naha",
+      "hana",
+      "haka",
+      "kaha"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦤꦠ diwaca?",
+    "a": "nata",
+    "opts": [
+      "naha",
+      "kasa",
+      "nata",
+      "naca"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦕꦫ diwaca?",
+    "a": "cara",
+    "opts": [
+      "nara",
+      "nyara",
+      "kara",
+      "cara"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦫꦒ diwaca?",
+    "a": "raga",
+    "opts": [
+      "raga",
+      "gara",
+      "kara",
+      "dara"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦏꦭ diwaca?",
+    "a": "kala",
+    "opts": [
+      "kaha",
+      "kala",
+      "tala",
+      "naha"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦩꦕ diwaca?",
+    "a": "maca",
+    "opts": [
+      "cama",
+      "kaca",
+      "maca",
+      "paca"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦱꦥ diwaca?",
+    "a": "sapa",
+    "opts": [
+      "pasa",
+      "kapa",
+      "saka",
+      "sapa"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦗꦮ diwaca?",
+    "a": "jawa",
+    "opts": [
+      "jawa",
+      "waja",
+      "raja",
+      "kawa"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦧꦮ diwaca?",
+    "a": "bawa",
+    "opts": [
+      "waba",
+      "bawa",
+      "kawa",
+      "bata"
+    ]
+  },
+  {
+    "level": 1,
+    "q": "ꦭꦠ diwaca?",
+    "a": "lata",
+    "opts": [
+      "tala",
+      "kata",
+      "lata",
+      "laba"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦲꦶꦏꦶ diwaca?",
+    "a": "hiki",
+    "opts": [
+      "liki",
+      "hiki",
+      "lini",
+      "niki"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦤꦸꦏꦸ diwaca?",
+    "a": "nuku",
+    "opts": [
+      "nulu",
+      "kunu",
+      "nuku",
+      "kuku"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦏꦺꦕꦺ diwaca?",
+    "a": "kécé",
+    "opts": [
+      "kédé",
+      "nésé",
+      "pécé",
+      "kécé"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦭꦺꦴꦫꦺꦴ diwaca?",
+    "a": "loro",
+    "opts": [
+      "loro",
+      "logo",
+      "horo",
+      "loyo"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦠꦼꦧꦸ diwaca?",
+    "a": "tebu",
+    "opts": [
+      "lebu",
+      "tebu",
+      "telu",
+      "lemu"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦱꦠꦺ diwaca?",
+    "a": "saté",
+    "opts": [
+      "soto",
+      "satu",
+      "saté",
+      "sari"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦱꦥꦸ diwaca?",
+    "a": "sapu",
+    "opts": [
+      "sapi",
+      "soto",
+      "suka",
+      "sapu"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦥꦶꦥꦶ diwaca?",
+    "a": "pipi",
+    "opts": [
+      "pipi",
+      "pupu",
+      "pici",
+      "pico"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦱꦺꦴꦠꦺꦴ diwaca?",
+    "a": "soto",
+    "opts": [
+      "satu",
+      "soto",
+      "saté",
+      "siti"
+    ]
+  },
+  {
+    "level": 2,
+    "q": "ꦏꦼꦫꦶ diwaca?",
+    "a": "keri",
+    "opts": [
+      "kori",
+      "kiri",
+      "keri",
+      "kuru"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦥꦁꦏꦸ diwaca?",
+    "a": "pangku",
+    "opts": [
+      "rengku",
+      "wangku",
+      "pangku",
+      "pakung"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦊꦩ꧀ꦧꦸ diwaca?",
+    "a": "lembu",
+    "opts": [
+      "angembu",
+      "ngnembu",
+      "lengbu",
+      "lembu"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦏꦁꦏꦸꦁ diwaca?",
+    "a": "kangkung",
+    "opts": [
+      "kangkung",
+      "kungkang",
+      "kangkang",
+      "kangking"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦒꦗꦃ diwaca?",
+    "a": "gajah",
+    "opts": [
+      "gajar",
+      "gajah",
+      "gajan",
+      "gajag"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦥꦱꦂ diwaca?",
+    "a": "pasar",
+    "opts": [
+      "pasah",
+      "pasan",
+      "pasar",
+      "pasak"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦮꦪꦁ diwaca?",
+    "a": "wayang",
+    "opts": [
+      "wayar",
+      "wayah",
+      "wayan",
+      "wayang"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦩꦔꦤ꧀ diwaca?",
+    "a": "mangan",
+    "opts": [
+      "mangan",
+      "mangah",
+      "mangar",
+      "mangap"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦉꦱꦶꦏ꧀ diwaca?",
+    "a": "resik",
+    "opts": [
+      "rasik",
+      "resik",
+      "rosik",
+      "rusik"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦊꦒ diwaca?",
+    "a": "lega",
+    "opts": [
+      "laga",
+      "loga",
+      "lega",
+      "luga"
+    ]
+  },
+  {
+    "level": 3,
+    "q": "ꦉꦱꦶꦏ꧀ꦏꦤ꧀ diwaca?",
+    "a": "resikan",
+    "opts": [
+      "persikan",
+      "presikan",
+      "resikkan",
+      "resikan"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦧꦺꦴꦕꦃꦲꦶꦏꦶ diwaca?",
+    "a": "bocah iki",
+    "opts": [
+      "bocah iki",
+      "bocah iku",
+      "bocah kaé",
+      "bocah kuwi"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "Iki pasangan aksara apa: ꧀ꦛ",
+    "a": "ꦛ",
+    "opts": [
+      "ꦣ",
+      "ꦛ",
+      "ꦮ",
+      "ꦢ"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "Iki pasangan aksara apa: ꧀ꦚ",
+    "a": "ꦚ",
+    "opts": [
+      "ꦔ",
+      "ꦛ",
+      "ꦚ",
+      "ꦧ"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦩꦔꦤ꧀ꦫꦺꦴꦠꦶ diwaca?",
+    "a": "mangan roti",
+    "opts": [
+      "mangan sega",
+      "mangan tahu",
+      "mangan tempe",
+      "mangan roti"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦤꦸꦭꦶꦱ꧀ꦧꦸꦏꦸ diwaca?",
+    "a": "nulis buku",
+    "opts": [
+      "nulis buku",
+      "nulis jawa",
+      "nulis latin",
+      "nulis layang"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦠꦸꦏꦸꦠꦲꦸ diwaca?",
+    "a": "tuku tahu",
+    "opts": [
+      "tuku tempe",
+      "tuku tahu",
+      "tuku roti",
+      "tuku gula"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦲꦣꦶꦏ꧀ꦏꦤ꧀ꦝꦸꦁ diwaca?",
+    "a": "adhik kandhung",
+    "opts": [
+      "adhik kelas",
+      "mbakyu kandhung",
+      "adhik kandhung",
+      "mas kandhung"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦧꦥꦏ꧀ꦠꦶꦤ꧀ꦢꦏ꧀ diwaca?",
+    "a": "bapak tindak",
+    "opts": [
+      "bapak kondur",
+      "bapak sare",
+      "bapak dahar",
+      "bapak tindak"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦲꦤꦏ꧀ꦥꦩ꧀ꦧꦫꦼꦥ꧀ diwaca?",
+    "a": "anak pambarep",
+    "opts": [
+      "anak pambarep",
+      "anak wuragil",
+      "anak panengah",
+      "anak tunggal"
+    ]
+  },
+  {
+    "level": 4,
+    "q": "ꦤꦸꦩ꧀ꦥꦏ꧀ꦱꦼꦥꦸꦂ diwaca?",
+    "a": "numpak sepur",
+    "opts": [
+      "numpak bis",
+      "numpak sepur",
+      "numpak kapal",
+      "numpak dokar"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦏꦿꦩ diwaca?",
+    "a": "krama",
+    "opts": [
+      "karma",
+      "krama",
+      "kurma",
+      "kirma"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦠꦾꦱ꧀ diwaca?",
+    "a": "tyas",
+    "opts": [
+      "tras",
+      "tlas",
+      "tyas",
+      "twas"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦏꦽꦠꦼꦒ꧀ diwaca?",
+    "a": "kreteg",
+    "opts": [
+      "kroteg",
+      "kriteg",
+      "krateg",
+      "kreteg"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦥꦿꦧ diwaca?",
+    "a": "praba",
+    "opts": [
+      "praba",
+      "purba",
+      "parba",
+      "pirba"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦠꦿꦼꦱ꧀ꦤ diwaca?",
+    "a": "tresna",
+    "opts": [
+      "trasna",
+      "tresna",
+      "trosna",
+      "trusna"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦏꦿꦗꦤ꧀ diwaca?",
+    "a": "krajan",
+    "opts": [
+      "karjan",
+      "kurjan",
+      "krajan",
+      "kirjan"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦥꦿꦾꦪꦶ diwaca?",
+    "a": "pryayi",
+    "opts": [
+      "prayayi",
+      "piryayi",
+      "puryayi",
+      "pryayi"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦱꦧꦿꦮꦁ diwaca?",
+    "a": "sabrawang",
+    "opts": [
+      "sabrawang",
+      "sabarawang",
+      "sabruwang",
+      "sabriwang"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦢꦾꦃ diwaca?",
+    "a": "dyah",
+    "opts": [
+      "diyah",
+      "dyah",
+      "drah",
+      "dnah"
+    ]
+  },
+  {
+    "level": 5,
+    "q": "ꦔꦽꦩ꧀ꦥꦼꦭ diwaca?",
+    "a": "ngrempela",
+    "opts": [
+      "ngrampela",
+      "ngrompela",
+      "ngrempela",
+      "ngrumpela"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Adhik dipundhutaké klambi. Tulisan sing bener?",
+    "a": "ꦲꦣꦶꦏ꧀ꦢꦶꦥꦸꦤ꧀ꦝꦸꦠ꧀ꦠꦏꦺꦏ꧀ꦭꦩ꧀ꦧꦶ",
+    "opts": [
+      "ꦲꦣꦶꦏ꧀ꦢꦶꦥꦸꦤ꧀ꦝꦸꦠ꧀ꦲꦏꦺꦏ꧀ꦭꦩ꧀ꦧꦶ",
+      "ꦲꦣꦶꦏ꧀ꦢꦶꦥꦸꦤ꧀ꦝꦸꦠ꧀ꦠꦏꦺꦏ꧀ꦭꦩ꧀ꦧꦶ",
+      "ꦲꦣꦶꦏ꧀ꦢꦶꦥꦸꦤ꧀ꦝꦸꦠꦏꦺꦏ꧀ꦭꦩ꧀ꦧꦶ",
+      "ꦲꦝꦶꦏ꧀ꦢꦶꦥꦸꦤ꧀ꦝꦸꦠꦺꦏ꧀ꦭꦩ꧀ꦧꦶ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Siti nyirami kembang. Tulisan sing bener?",
+    "a": "ꦱꦶꦠꦶꦚꦶꦫꦩ꧀ꦩꦶꦏꦼꦩ꧀ꦧꦁ",
+    "opts": [
+      "ꦱꦶꦠꦶꦚꦶꦫꦩꦶꦏꦼꦩ꧀ꦧꦁ",
+      "ꦱꦶꦠꦶꦚꦶꦫꦩ꧀ꦲꦶꦏꦼꦩ꧀ꦧꦁ",
+      "ꦱꦶꦠꦶꦚꦶꦫꦩ꧀ꦩꦶꦏꦼꦩ꧀ꦧꦁ",
+      "ꦱꦶꦠꦶꦱꦶꦫꦩꦶꦏꦼꦩ꧀ꦧꦁ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Bapaké tindak kantor. Tulisan sing bener?",
+    "a": "ꦧꦥꦏ꧀ꦏꦺꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦤ꧀ꦠꦺꦴꦂ",
+    "opts": [
+      "ꦧꦥꦏꦺꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦤ꧀ꦠꦺꦴꦂ",
+      "ꦧꦥꦏ꧀ꦲꦺꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦤ꧀ꦠꦺꦴꦂ",
+      "ꦧꦥꦏ꧀ꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦤ꧀ꦠꦺꦴꦂ",
+      "ꦧꦥꦏ꧀ꦏꦺꦠꦶꦤ꧀ꦢꦏ꧀ꦏꦤ꧀ꦠꦺꦴꦂ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "Budi ditukokaké. Tulisan sing bener?",
+    "a": "ꦧꦸꦢꦶꦢꦶꦠꦸꦏꦺꦴꦏ꧀ꦲꦏꦺ",
+    "opts": [
+      "ꦧꦸꦢꦶꦢꦶꦠꦸꦏꦺꦴꦏ꧀ꦲꦏꦺ",
+      "ꦧꦸꦢꦶꦢꦶꦠꦸꦏꦺꦴꦏꦏꦺ",
+      "ꦧꦸꦢꦶꦢꦶꦠꦸꦏꦺꦴꦲꦏꦺ",
+      "ꦧꦸꦢꦶꦢꦶꦠꦸꦏꦺꦴꦏ꧀ꦏꦏꦺ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'karesikan' yen ditulis aksara Jawa?",
+    "a": "ꦏꦫꦼꦱꦶꦏ꧀ꦏꦤ꧀",
+    "opts": [
+      "ꦏꦫꦼꦱꦶꦏꦤ꧀",
+      "ꦏꦫꦼꦱꦶꦏ꧀ꦏꦤ꧀",
+      "ꦥꦫꦼꦱꦶꦏ꧀ꦏꦤ꧀",
+      "ꦏꦫꦼꦗ꦳ꦶꦏ꧀ꦏꦤ꧀"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'pangertiyan' yen ditulis aksara Jawa?",
+    "a": "ꦥꦔꦼꦂꦠꦶꦪꦤ꧀",
+    "opts": [
+      "ꦥꦔꦼꦂꦠꦶꦲꦤ꧀",
+      "ꦥꦔꦼꦂꦠꦺꦤ꧀",
+      "ꦥꦔꦼꦂꦠꦶꦪꦤ꧀",
+      "ꦥꦔꦼꦂꦠꦶꦲꦺꦤ꧀"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'ngombéné' yen ditulis aksara Jawa?",
+    "a": "ꦔꦺꦴꦩ꧀ꦧꦺꦤ꧀ꦤꦺ",
+    "opts": [
+      "ꦔꦺꦴꦩ꧀ꦧꦺꦤꦺ",
+      "ꦔꦺꦴꦩ꧀ꦧꦺꦲꦺꦤꦺ",
+      "ꦔꦺꦴꦩ꧀ꦧꦺꦏꦺ",
+      "ꦔꦺꦴꦩ꧀ꦧꦺꦤ꧀ꦤꦺ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'macani' yen ditulis aksara Jawa?",
+    "a": "ꦩꦕꦤ꧀ꦤꦶ",
+    "opts": [
+      "ꦩꦕꦤ꧀ꦤꦶ",
+      "ꦩꦕꦤꦶ",
+      "ꦩꦚꦕꦤꦶ",
+      "ꦩꦕꦤꦤꦶ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'nggawa' yen ditulis aksara Jawa?",
+    "a": "ꦔ꧀ꦒꦮ",
+    "opts": [
+      "ꦲꦁꦒꦮ",
+      "ꦔ꧀ꦒꦮ",
+      "ꦩ꧀ꦒꦮ",
+      "ꦔ꧀ꦒꦮꦶ"
+    ]
+  },
+  {
+    "level": 6,
+    "q": "'dijukukaké' yen ditulis aksara Jawa?",
+    "a": "ꦢꦶꦗꦸꦏꦸꦏ꧀ꦲꦏꦺ",
+    "opts": [
+      "ꦢꦶꦗꦸꦏꦸꦏꦏꦺ",
+      "ꦢꦶꦗꦸꦏꦸꦏ꧀ꦏꦏꦺ",
+      "ꦢꦶꦗꦸꦏꦸꦏ꧀ꦲꦏꦺ",
+      "ꦢꦶꦗꦸꦏꦸꦏꦺ"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦯꦸꦫꦏꦂꦠ diwaca?",
+    "a": "Surakarta",
+    "opts": [
+      "Sukarta",
+      "Surakerta",
+      "Surakarta",
+      "Surakarti"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦄꦤ꧀ꦢꦺꦴꦤꦺꦱꦶꦪ diwaca?",
+    "a": "Indonesia",
+    "opts": [
+      "Indonesia",
+      "Indonesi",
+      "Indonisi",
+      "Andonesia"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦑꦂꦠꦶꦤꦶ diwaca?",
+    "a": "Kartini",
+    "opts": [
+      "Kertini",
+      "Kartini",
+      "Kartina",
+      "Kirtini"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦌꦪꦸꦫꦺꦴꦥ diwaca?",
+    "a": "Eropa",
+    "opts": [
+      "Erupa",
+      "Eropi",
+      "Eropa",
+      "Aropa"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦄꦼꦂꦭꦁꦒ diwaca?",
+    "a": "Erlangga",
+    "opts": [
+      "Erlanggi",
+      "Arlangga",
+      "Orlangga",
+      "Erlangga"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦨꦿꦮꦶꦗꦪ diwaca?",
+    "a": "Brawijaya",
+    "opts": [
+      "Brawijaya",
+      "Barawijaya",
+      "Brawijayi",
+      "Brawijayo"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦯꦸꦭ꧀ꦠꦤ꧀ diwaca?",
+    "a": "Sultan",
+    "opts": [
+      "Salten",
+      "Sultan",
+      "Soltan",
+      "Sultun"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦄꦩ꧀ꦧꦫꦮ diwaca?",
+    "a": "Ambarawa",
+    "opts": [
+      "Ambarawi",
+      "Ambarawo",
+      "Ambarawa",
+      "Umbarawa"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦈꦱ꧀ꦩꦤ꧀ diwaca?",
+    "a": "Usman",
+    "opts": [
+      "Asman",
+      "Osman",
+      "Isman",
+      "Usman"
+    ]
+  },
+  {
+    "level": 7,
+    "q": "ꦦꦿꦧꦺꦴꦮꦺꦴ diwaca?",
+    "a": "Prabowo",
+    "opts": [
+      "Prabowo",
+      "Purbowo",
+      "Prabawi",
+      "Pirbowo"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'zakat' yen ditulis aksara Jawa?",
+    "a": "ꦗ꦳ꦏꦠ꧀",
+    "opts": [
+      "ꦗꦏꦠ꧀",
+      "ꦗ꦳ꦏꦠ꧀",
+      "ꦱꦏꦠ꧀",
+      "ꦥ꦳ꦏꦠ꧀"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'fajar' yen ditulis aksara Jawa?",
+    "a": "ꦥ꦳ꦗꦂ",
+    "opts": [
+      "ꦥꦗꦂ",
+      "ꦮꦗꦂ",
+      "ꦥ꦳ꦗꦂ",
+      "ꦏꦗꦂ"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'khabar' yen ditulis aksara Jawa?",
+    "a": "ꦏ꦳ꦧꦂ",
+    "opts": [
+      "ꦏꦧꦂ",
+      "ꦒꦧꦂ",
+      "ꦲꦧꦂ",
+      "ꦏ꦳ꦧꦂ"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'ghaib' yen ditulis aksara Jawa?",
+    "a": "ꦒ꦳ꦲꦶꦧ꧀",
+    "opts": [
+      "ꦒ꦳ꦲꦶꦧ꧀",
+      "ꦒꦲꦶꦧ꧀",
+      "ꦏꦲꦶꦧ꧀",
+      "ꦲꦲꦶꦧ꧀"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'dzikir' yen ditulis aksara Jawa?",
+    "a": "ꦢ꦳ꦶꦏꦶꦂ",
+    "opts": [
+      "ꦗ꦳ꦶꦏꦶꦂ",
+      "ꦢ꦳ꦶꦏꦶꦂ",
+      "ꦱꦶꦏꦶꦂ",
+      "ꦢꦶꦏꦶꦂ"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "Angka '1945' yen ditulis aksara Jawa?",
+    "a": "꧇꧑꧙꧔꧕꧇",
+    "opts": [
+      "꧇꧑꧘꧔꧕꧇",
+      "꧇꧑꧙꧕꧕꧇",
+      "꧇꧑꧙꧔꧕꧇",
+      "꧇꧑꧙꧓꧕꧇"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "Angka '2026' yen ditulis aksara Jawa?",
+    "a": "꧇꧒꧐꧒꧖꧇",
+    "opts": [
+      "꧇꧒꧐꧒꧕꧇",
+      "꧇꧒꧐꧒꧔꧇",
+      "꧇꧒꧐꧒꧗꧇",
+      "꧇꧒꧐꧒꧖꧇"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "'10 buku' yen ditulis aksara Jawa?",
+    "a": "꧇꧑꧐꧇ꦧꦸꦏꦸ",
+    "opts": [
+      "꧇꧑꧐꧇ꦧꦸꦏꦸ",
+      "꧇꧑꧒꧇ꦧꦸꦏꦸ",
+      "꧇꧒꧐꧇ꦧꦸꦏꦸ",
+      "꧇꧑꧕꧇ꦧꦸꦏꦸ"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "Pada lingsa (koma) yen ditulis aksara Jawa?",
+    "a": "꧈",
+    "opts": [
+      "꧉",
+      "꧈",
+      "꧇",
+      "꧆"
+    ]
+  },
+  {
+    "level": 8,
+    "q": "Pada lungsi (titik) yen ditulis aksara Jawa?",
+    "a": "꧉",
+    "opts": [
+      "꧈",
+      "꧇",
+      "꧉",
+      "꧆"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "ꦩ꧀ꦭꦏꦸꦩ꧀ꦭꦏꦸ diwaca?",
+    "a": "mlaku-mlaku",
+    "opts": [
+      "mlaka-mlaku",
+      "mlaku-mlaki",
+      "mlaku-mlaku",
+      "mlaku-mlako"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "ꦭꦼꦭꦸꦲꦸꦂ diwaca?",
+    "a": "leluhur",
+    "opts": [
+      "laluhur",
+      "luluhur",
+      "leluhir",
+      "leluhur"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "ꦠꦼꦠꦸꦏꦸ diwaca?",
+    "a": "tetuku",
+    "opts": [
+      "tetuku",
+      "tatuku",
+      "tutuku",
+      "tetuki"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "ꦧꦺꦴꦕꦃꦧꦺꦴꦕꦃ diwaca?",
+    "a": "bocah-bocah",
+    "opts": [
+      "bocah-bocih",
+      "bocah-bocah",
+      "bocah-bacah",
+      "bocah-bucah"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "ꦧꦺꦴꦭꦧꦭꦶ diwaca?",
+    "a": "bola-bali",
+    "opts": [
+      "bali-bola",
+      "bola-bola",
+      "bola-bali",
+      "bali-bali"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "'jejogetan' yen ditulis aksara Jawa?",
+    "a": "ꦗꦼꦗꦺꦴꦒꦼꦠꦤ꧀",
+    "opts": [
+      "ꦗꦗꦺꦴꦒꦼꦠꦤ꧀",
+      "ꦗꦼꦗꦺꦴꦒꦼꦠꦶꦤ꧀",
+      "ꦗꦶꦗꦺꦴꦒꦼꦠꦤ꧀",
+      "ꦗꦼꦗꦺꦴꦒꦼꦠꦤ꧀"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "'piyambak' yen ditulis aksara Jawa?",
+    "a": "ꦥꦶꦪꦩ꧀ꦧꦏ꧀",
+    "opts": [
+      "ꦥꦶꦪꦩ꧀ꦧꦏ꧀",
+      "ꦥꦶꦲꦩ꧀ꦧꦏ꧀",
+      "ꦥꦶꦪꦩ꧀ꦧꦶꦏ꧀",
+      "ꦥꦶꦪꦩ꧀ꦧꦺꦴꦏ꧀"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "'yambak' yen ditulis aksara Jawa?",
+    "a": "ꦪꦩ꧀ꦧꦏ꧀",
+    "opts": [
+      "ꦲꦶꦲꦩ꧀ꦧꦏ꧀",
+      "ꦪꦩ꧀ꦧꦏ꧀",
+      "ꦪꦶꦲꦩ꧀ꦧꦏ꧀",
+      "ꦪꦩ꧀ꦧꦶꦏ꧀"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "'kumawani' yen ditulis aksara Jawa?",
+    "a": "ꦏꦸꦩꦮꦤꦶ",
+    "opts": [
+      "ꦏꦩꦮꦤꦶ",
+      "ꦏꦸꦩꦮꦤꦺ",
+      "ꦏꦸꦩꦮꦤꦶ",
+      "ꦏꦸꦩꦮꦤ"
+    ]
+  },
+  {
+    "level": 9,
+    "q": "'pating krasak' yen ditulis aksara Jawa?",
+    "a": "ꦥꦠꦶꦁꦏꦿꦱꦏ꧀",
+    "opts": [
+      "ꦥꦠꦶꦁꦏꦿꦶꦱꦶꦏ꧀",
+      "ꦥꦠꦶꦁꦏꦿꦼꦱꦏ꧀",
+      "ꦥꦠꦶꦁꦏꦿꦱꦶꦏ꧀",
+      "ꦥꦠꦶꦁꦏꦿꦱꦏ꧀"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦱꦼꦥꦶꦲꦶꦁꦩꦩ꧀ꦫꦶꦃ diwaca?",
+    "a": "sepi ing mamrih",
+    "opts": [
+      "sepi ing mamrih",
+      "rame ing gawe",
+      "sepi ing gawe",
+      "rame ing mamrih"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦫꦩꦺꦲꦶꦁꦒꦮꦺ diwaca?",
+    "a": "rame ing gawe",
+    "opts": [
+      "sepi ing mamrih",
+      "rame ing gawe",
+      "rame ing mamrih",
+      "sepi ing gawe"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦩꦔꦤ꧀ꦱꦼꦒꦒꦺꦴꦫꦺꦁ diwaca?",
+    "a": "mangan sega goreng",
+    "opts": [
+      "mangan sega pecel",
+      "mangan sega tiwul",
+      "mangan sega goreng",
+      "mangan sega uduk"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦠꦸꦏꦸꦧꦸꦏꦸꦠꦸꦭꦶꦱ꧀ diwaca?",
+    "a": "tuku buku tulis",
+    "opts": [
+      "tuku buku gambar",
+      "tuku tas sekolah",
+      "tuku garisan kayu",
+      "tuku buku tulis"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦔꦺꦴꦩ꧀ꦧꦺꦮꦺꦢꦁꦗꦲꦺ diwaca?",
+    "a": "ngombe wedang jahe",
+    "opts": [
+      "ngombe wedang jahe",
+      "ngombe wedang kopi",
+      "ngombe wedang teh",
+      "ngombe wedang ronde"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦲꦺꦭꦶꦁꦭꦤ꧀ꦮꦱ꧀ꦥꦢ diwaca?",
+    "a": "eling lan waspada",
+    "opts": [
+      "eling lan prayitna",
+      "eling lan waspada",
+      "nrimo lan legawa",
+      "sabar lan tawakal"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦱꦸꦒꦼꦁꦫꦮꦸꦃ diwaca?",
+    "a": "sugeng rawuh",
+    "opts": [
+      "sugeng enjang",
+      "sugeng dalu",
+      "sugeng rawuh",
+      "sugeng tindak"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "'sugeng ambal warsa' yen ditulis aksara Jawa?",
+    "a": "ꦱꦸꦒꦼꦁꦲꦩ꧀ꦧꦭ꧀ꦮꦂꦱ",
+    "opts": [
+      "ꦱꦸꦒꦼꦁꦲꦩ꧀ꦧꦭ꧀ꦮꦂꦱꦶ",
+      "ꦱꦸꦒꦼꦁꦲꦩ꧀ꦧꦭ꧀ꦮꦂꦱꦺꦴ",
+      "ꦱꦸꦒꦼꦁꦲꦩ꧀ꦧꦭ꧀ꦮꦂꦱꦼ",
+      "ꦱꦸꦒꦼꦁꦲꦩ꧀ꦧꦭ꧀ꦮꦂꦱ"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "ꦩꦠꦸꦂꦤꦸꦮꦸꦤ꧀ꦱꦔꦼꦠ꧀ diwaca?",
+    "a": "matur nuwun sanget",
+    "opts": [
+      "matur nuwun sanget",
+      "matur nuwun kulo",
+      "matur nuwun bapak",
+      "matur nuwun ibu"
+    ]
+  },
+  {
+    "level": 10,
+    "q": "'tepa slira' yen ditulis aksara Jawa?",
+    "a": "ꦠꦼꦥꦱ꧀ꦭꦶꦫ",
+    "opts": [
+      "ꦠꦺꦥꦱ꧀ꦭꦶꦫ",
+      "ꦠꦼꦥꦱ꧀ꦭꦶꦫ",
+      "ꦠꦼꦥꦱ꧀ꦭꦺꦫ",
+      "ꦠꦼꦥꦱ꧀ꦭꦸꦫ"
+    ]
+  }
+]
