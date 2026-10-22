@@ -411,9 +411,9 @@
     "q": "ꦧꦥꦏ꧀ꦠꦶꦤ꧀ꦢꦏ꧀ diwaca?",
     "a": "bapak tindak",
     "opts": [
-      "bapak kondur",
-      "bapak sare",
-      "bapak dahar",
+      "bapak tindhak",
+      "kakak tindak",
+      "kakak tindhak",
       "bapak tindak"
     ]
   },
@@ -423,9 +423,9 @@
     "a": "anak pambarep",
     "opts": [
       "anak pambarep",
-      "anak wuragil",
-      "anak panengah",
-      "anak tunggal"
+      "anak apambarep",
+      "anak pembalap",
+      "anak apambalap"
     ]
   },
   {
@@ -433,10 +433,10 @@
     "q": "ꦤꦸꦩ꧀ꦥꦏ꧀ꦱꦼꦥꦸꦂ diwaca?",
     "a": "numpak sepur",
     "opts": [
-      "numpak bis",
+      "numpaki sepur",
       "numpak sepur",
-      "numpak kapal",
-      "numpak dokar"
+      "numpaka sepur",
+      "numpak asepur"
     ]
   },
   {
@@ -444,10 +444,10 @@
     "q": "ꦏꦿꦩ diwaca?",
     "a": "krama",
     "opts": [
-      "karma",
+      "krana",
       "krama",
-      "kurma",
-      "kirma"
+      "krasa",
+      "krata"
     ]
   },
   {
@@ -455,7 +455,7 @@
     "q": "ꦠꦾꦱ꧀ diwaca?",
     "a": "tyas",
     "opts": [
-      "tras",
+      "dyas",
       "tlas",
       "tyas",
       "twas"
@@ -466,9 +466,9 @@
     "q": "ꦏꦽꦠꦼꦒ꧀ diwaca?",
     "a": "kreteg",
     "opts": [
-      "kroteg",
-      "kriteg",
-      "krateg",
+      "kreseg",
+      "kremes",
+      "kreta",
       "kreteg"
     ]
   },
@@ -478,9 +478,9 @@
     "a": "praba",
     "opts": [
       "praba",
-      "purba",
-      "parba",
-      "pirba"
+      "pranga",
+      "pranya",
+      "pratha"
     ]
   },
   {
@@ -488,10 +488,10 @@
     "q": "ꦠꦿꦼꦱ꧀ꦤ diwaca?",
     "a": "tresna",
     "opts": [
-      "trasna",
+      "kresna",
       "tresna",
       "trosna",
-      "trusna"
+      "krusna"
     ]
   },
   {
@@ -500,20 +500,20 @@
     "a": "krajan",
     "opts": [
       "karjan",
-      "kurjan",
+      "kajran",
       "krajan",
-      "kirjan"
+      "kranjang"
     ]
   },
   {
     "level": 5,
-    "q": "ꦥꦿꦾꦪꦶ diwaca?",
-    "a": "pryayi",
+    "q": "ꦥꦿꦮꦶꦫ diwaca?",
+    "a": "prawira",
     "opts": [
-      "prayayi",
-      "piryayi",
-      "puryayi",
-      "pryayi"
+      "priyayi",
+      "prawari",
+      "priwayi",
+      "prawira"
     ]
   },
   {
@@ -523,8 +523,8 @@
     "opts": [
       "sabrawang",
       "sabarawang",
-      "sabruwang",
-      "sabriwang"
+      "sabrawrang",
+      "sabarwang"
     ]
   },
   {
@@ -534,8 +534,8 @@
     "opts": [
       "diyah",
       "dyah",
-      "drah",
-      "dnah"
+      "syah",
+      "siyah"
     ]
   },
   {
@@ -618,7 +618,7 @@
   {
     "level": 6,
     "q": "'ngombéné' yen ditulis aksara Jawa?",
-    "a": "ꦔꦺꦴꦩ꧀ꦧꦺꦤ꧀ꦤꦺ",
+    "a": "ꦔꦺꦴꦩ꧀ꦧꦺꦤꦺ",
     "opts": [
       "ꦔꦺꦴꦩ꧀ꦧꦺꦤꦺ",
       "ꦔꦺꦴꦩ꧀ꦧꦺꦲꦺꦤꦺ",
@@ -664,21 +664,21 @@
     "q": "ꦯꦸꦫꦏꦂꦠ diwaca?",
     "a": "Surakarta",
     "opts": [
-      "Sukarta",
-      "Surakerta",
+      "Shurakarta",
+      "Surakharta",
       "Surakarta",
-      "Surakarti"
+      "Syurakarta"
     ]
   },
   {
     "level": 7,
-    "q": "ꦄꦤ꧀ꦢꦺꦴꦤꦺꦱꦶꦪ diwaca?",
-    "a": "Indonesia",
+    "q": "ꦆꦤ꧀ꦢꦺꦴꦤꦺꦱꦶꦪ diwaca?",
+    "a": "Indonésia",
     "opts": [
-      "Indonesia",
-      "Indonesi",
-      "Indonisi",
-      "Andonesia"
+      "Indonésia",
+      "Indhonésia",
+      "Indonésya",
+      "Indhonésya"
     ]
   },
   {
@@ -686,21 +686,21 @@
     "q": "ꦑꦂꦠꦶꦤꦶ diwaca?",
     "a": "Kartini",
     "opts": [
-      "Kertini",
+      "Kratini",
       "Kartini",
-      "Kartina",
-      "Kirtini"
+      "Kratani",
+      "Kartana"
     ]
   },
   {
     "level": 7,
-    "q": "ꦌꦪꦸꦫꦺꦴꦥ diwaca?",
-    "a": "Eropa",
+    "q": "ꦌꦫꦺꦴꦥ diwaca?",
+    "a": "Éropa",
     "opts": [
-      "Erupa",
-      "Eropi",
-      "Eropa",
-      "Aropa"
+      "Éroupa",
+      "Héropa",
+      "Éropa",
+      "Héroupa"
     ]
   },
   {
@@ -708,9 +708,9 @@
     "q": "ꦄꦼꦂꦭꦁꦒ diwaca?",
     "a": "Erlangga",
     "opts": [
-      "Erlanggi",
-      "Arlangga",
-      "Orlangga",
+      "Érlangga",
+      "Airlangga",
+      "Eirlangga",
       "Erlangga"
     ]
   },
@@ -721,8 +721,8 @@
     "opts": [
       "Brawijaya",
       "Barawijaya",
-      "Brawijayi",
-      "Brawijayo"
+      "Brajawijaya",
+      "Brawijraya"
     ]
   },
   {
@@ -730,10 +730,10 @@
     "q": "ꦯꦸꦭ꧀ꦠꦤ꧀ diwaca?",
     "a": "Sultan",
     "opts": [
-      "Salten",
+      "Shultan",
       "Sultan",
-      "Soltan",
-      "Sultun"
+      "Syultan",
+      "Sultana"
     ]
   },
   {
@@ -741,10 +741,10 @@
     "q": "ꦄꦩ꧀ꦧꦫꦮ diwaca?",
     "a": "Ambarawa",
     "opts": [
-      "Ambarawi",
-      "Ambarawo",
+      "Amabarawa",
+      "Ambrarawa",
       "Ambarawa",
-      "Umbarawa"
+      "Ambarawra"
     ]
   },
   {
@@ -760,13 +760,13 @@
   },
   {
     "level": 7,
-    "q": "ꦦꦿꦧꦺꦴꦮꦺꦴ diwaca?",
-    "a": "Prabowo",
+    "q": "ꦦꦿꦧꦮ diwaca?",
+    "a": "Prabawa",
     "opts": [
+      "Prabawa",
       "Prabowo",
-      "Purbowo",
-      "Prabawi",
-      "Pirbowo"
+      "Parbawa",
+      "Parbowo"
     ]
   },
   {
@@ -788,7 +788,7 @@
       "ꦥꦗꦂ",
       "ꦮꦗꦂ",
       "ꦥ꦳ꦗꦂ",
-      "ꦏꦗꦂ"
+      "ꦮ꦳ꦗꦂ"
     ]
   },
   {
@@ -797,8 +797,8 @@
     "a": "ꦏ꦳ꦧꦂ",
     "opts": [
       "ꦏꦧꦂ",
-      "ꦒꦧꦂ",
-      "ꦲꦧꦂ",
+      "ꦑꦧꦂ",
+      "ꦐꦧꦂ",
       "ꦏ꦳ꦧꦂ"
     ]
   },
@@ -809,8 +809,8 @@
     "opts": [
       "ꦒ꦳ꦲꦶꦧ꧀",
       "ꦒꦲꦶꦧ꧀",
-      "ꦏꦲꦶꦧ꧀",
-      "ꦲꦲꦶꦧ꧀"
+      "ꦒ꦳ꦆꦧ꧀",
+      "ꦒꦆꦧ꧀"
     ]
   },
   {
@@ -852,9 +852,9 @@
     "a": "꧇꧑꧐꧇ꦧꦸꦏꦸ",
     "opts": [
       "꧇꧑꧐꧇ꦧꦸꦏꦸ",
-      "꧇꧑꧒꧇ꦧꦸꦏꦸ",
+      "꧇꧔꧐꧇ꦧꦸꦏꦸ",
       "꧇꧒꧐꧇ꦧꦸꦏꦸ",
-      "꧇꧑꧕꧇ꦧꦸꦏꦸ"
+      "꧇꧖꧐꧇ꦧꦸꦏꦸ"
     ]
   },
   {
@@ -884,10 +884,10 @@
     "q": "ꦩ꧀ꦭꦏꦸꦩ꧀ꦭꦏꦸ diwaca?",
     "a": "mlaku-mlaku",
     "opts": [
-      "mlaka-mlaku",
-      "mlaku-mlaki",
+      "mblaku-mblaku",
+      "laku-laku",
       "mlaku-mlaku",
-      "mlaku-mlako"
+      "ngaku-ngaku"
     ]
   },
   {
@@ -899,7 +899,10 @@
       "luluhur",
       "leluhir",
       "leluhur"
-    ]
+    ] ]
+  },
+  {
+   ]
   },
   {
     "level": 9,
@@ -936,13 +939,13 @@
   },
   {
     "level": 9,
-    "q": "'jejogetan' yen ditulis aksara Jawa?",
-    "a": "ꦗꦼꦗꦺꦴꦒꦼꦠꦤ꧀",
+    "q": "'jejogedan' yen ditulis aksara Jawa?",
+    "a": "ꦗꦼꦗꦺꦴꦒꦺꦢ꧀ꦢꦤ꧀",
     "opts": [
-      "ꦗꦗꦺꦴꦒꦼꦠꦤ꧀",
-      "ꦗꦼꦗꦺꦴꦒꦼꦠꦶꦤ꧀",
-      "ꦗꦶꦗꦺꦴꦒꦼꦠꦤ꧀",
-      "ꦗꦼꦗꦺꦴꦒꦼꦠꦤ꧀"
+      "ꦗꦼꦗꦺꦴꦒꦺꦠ꧀ꦠꦤ꧀",
+      "ꦗꦼꦗꦺꦴꦒꦺꦠꦤ꧀",
+      "ꦗꦼꦗꦺꦴꦒꦺꦢꦤ꧀",
+      "ꦗꦼꦗꦺꦴꦒꦺꦢ꧀ꦢꦤ꧀"
     ]
   },
   {
@@ -973,9 +976,9 @@
     "a": "ꦏꦸꦩꦮꦤꦶ",
     "opts": [
       "ꦏꦩꦮꦤꦶ",
-      "ꦏꦸꦩꦮꦤꦺ",
+      "ꦏꦸꦩꦮꦤ꧀ꦤꦶ",
       "ꦏꦸꦩꦮꦤꦶ",
-      "ꦏꦸꦩꦮꦤ"
+      "ꦏꦩꦮꦤ꧀ꦤꦶ"
     ]
   },
   {
@@ -991,24 +994,24 @@
   },
   {
     "level": 10,
-    "q": "ꦱꦼꦥꦶꦲꦶꦁꦩꦩ꧀ꦫꦶꦃ diwaca?",
+    "q": "ꦱꦼꦥꦶꦲꦶꦁꦩꦩꦿꦶꦃ diwaca?",
     "a": "sepi ing mamrih",
     "opts": [
       "sepi ing mamrih",
-      "rame ing gawe",
-      "sepi ing gawe",
-      "rame ing mamrih"
+      "sépi ing mamrih",
+      "sepi ing pamrih",
+      "sépi ing pamrih"
     ]
   },
   {
     "level": 10,
     "q": "ꦫꦩꦺꦲꦶꦁꦒꦮꦺ diwaca?",
-    "a": "rame ing gawe",
+    "a": "ramé ing gawé",
     "opts": [
-      "sepi ing mamrih",
+      "ramé ing pamrih",
+      "ramé ing gawé",
       "rame ing gawe",
-      "rame ing mamrih",
-      "sepi ing gawe"
+      "rame ing pamrih"
     ]
   },
   {
